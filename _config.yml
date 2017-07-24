@@ -80,10 +80,10 @@ author:
   name             : "ALSETLab - Luigi Vanfretti"
   avatar           : "profile.png"
   bio              : "ALSETLab - Prof. Luigi Vanfretti's research group and lab. working on cyber-physical power system modeling and simulation, stability and control."
-  location         : "RPI, Troy, NY"
-  employer         :
+  location         : "Troy, NY"
+  employer         : "Rensselaer Polytechnic Institute (RPI)"
   googlescholar    : "https://scholar.google.com/citations?user=_XI6Q6UAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "luigi.vanfretti@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-4125-1055"
   pinterest        :
   researcherid     : "http://www.researcherid.com/rid/B-8174-2017"
-  scopusid         : "https://www.scopus.com/authid/detail.uri?authorId=23029592800"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=23029592800"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -109,7 +109,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/user/lvanfretti"
   wikipedia        :
 
 
@@ -147,14 +147,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -166,7 +164,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -182,7 +179,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -250,7 +246,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
