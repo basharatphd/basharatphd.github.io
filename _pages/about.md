@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "ALSET Home!"
-excerpt: "About"
+title: "ALSETLab Home!"
+excerpt: "ALSETLab Home!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab, his research group and laboratory at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
 This website is under construction, more information will be uploaded shortly. In the mean time, you can take a look at the software repositories available in Github:
