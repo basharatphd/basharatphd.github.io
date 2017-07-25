@@ -7,14 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab, his research group and laboratory at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
 This website is under construction, more information will be uploaded shortly. In the mean time, you can take a look at the software repositories available in Github:
 - [ALSETLab on Github!](https://github.com/ALSETLab): All code repositories related to Luigi's work, except OpenIPSL.
 - [OpenIPSL](http://openipsl.org): The OpenIPSL.org project with our Modelica library for power system simulation.
+
 ### About Luigi Vanfretti
+
 ### Book a Meeting!
 For colleagues/students and others that need to meet in person or through Skype, please book a meeting with me using [Google Calendar](https://goo.gl/forms/FXYBhrUI1bpn7Rtj1)
+
 ### A short bio
 ![luigixsmall](https://alsetlab.github.io/images/luigi_small.jpg "Small Picture")
 Luigi Vanfretti (SMIEEE'14) obtained the M.Sc. and Ph.D. degrees in electric power engineering at Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively.
