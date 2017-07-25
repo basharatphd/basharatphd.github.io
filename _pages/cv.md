@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
+* Visiting Researcher, The University of Glasgow, Fall 2005.
+* MSc in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. Major: Electric Power. Minor: Control Systems.
+* Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007.
 
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,8 +28,8 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+--->
+<!---Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,25 +37,28 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+--->
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Item
+--->
