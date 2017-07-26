@@ -13,3 +13,6 @@ redirect_from:
 * Stability, Control and Security of Power Systems
 * Cyber-Physical Systems
 * ... more details to come
+
+# Research Projects
+* Under construction ... more details to come.
