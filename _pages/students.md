@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Prospective Students
-#### News - Fall 2017!:
+## News - Fall 2017!:
   * I am looking for MSc/PhD students to join ALSETLab @RPI for Spring and Fall 2018.
   * Positions for 4 students, funded by the ECSE department.
   * I'm looking for students with:
@@ -21,7 +21,7 @@ redirect_from:
   * Brownie points if you have a Github repository, double brownie points if you contribute to a project, triple if you have your own on Github.
   * More information to come...
 
-### Do you want to work in my team (ALSETLab)?
+## Do you want to work in my team (ALSETLab)?
 To work in my team you have to be formally admitted for graduate studies at RPI. * It is not necessary to contact me prior to application, just indicate that you want to work with me in your documentation once you have fulfilled the requirements for admission.*
 
 ### RPI's Admission Requirements
