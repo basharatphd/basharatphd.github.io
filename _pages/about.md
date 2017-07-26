@@ -3,15 +3,14 @@ permalink: /
 title: "ALSETLab Home!"
 excerpt: "ALSETLab Home!"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab (a research group and a laboratory) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
-This website is under construction, more information will be uploaded shortly. In the mean time, you can take a look at the software repositories available in Github:
-  - [ALSETLab on Github!](https://github.com/ALSETLab): All code repositories related to Luigi's work, except OpenIPSL.
-  - [OpenIPSL](http://openipsl.org): The [OpenIPSL.org](http://openipsl.org) project with our Modelica library for power system simulation.
+
+This website is under construction, more information will be uploaded shortly.
 
 ### About ALSETLab
 ALSETLab is the name of Luigi's research group and also the real-time hardware-in-the-loop laboratory being built at RPI. The acronym stands for (ALSET: Analysis Laboratory for Synchrophasor and Electrical energy Technology) and (Lab: for Lab).
@@ -34,5 +33,3 @@ His research interests are in the area of synchrophasor technology applications;
 Here's a picture of Luigi:
 
 ![luigixsmall](https://alsetlab.github.io/images/luigi_small.jpg "Small Picture")
-
-

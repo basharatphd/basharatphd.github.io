@@ -8,10 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-# Software Projects and Resources
+  - [ALSETLab on Github!](https://github.com/ALSETLab): All code repositories related to Luigi's work, except OpenIPSL.
+  - [OpenIPSL](http://openipsl.org): The [OpenIPSL.org](http://openipsl.org) project with our Modelica library for power system simulation.
 
-* ALSETLab Github repository: [https://github.com/ALSETLab](https://github.com/ALSETLab)
-
-* Power System Toolbox (PST): (link)
+  - Power System Toolbox (PST): (link)
 
 * More to come...
