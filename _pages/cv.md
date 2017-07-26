@@ -17,7 +17,8 @@ Education
 * Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007.
 
 Under construction ... more to come.
-<!---
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -61,4 +62,4 @@ Teaching
 Service and leadership
 ======
 * Item
---->
+-->
