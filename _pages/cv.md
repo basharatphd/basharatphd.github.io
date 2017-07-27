@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Contact/CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,6 +15,29 @@ Education
 * Visiting Researcher, The University of Glasgow, Fall 2005.
 * MSc in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. Major: Electric Power. Minor: Control Systems.
 * Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007.
+
+Contact
+======
+## Physical
+* Postal Address:<br />
+Rensselaer Polytechnic Institute<br />
+JEC 6220, 110 Eighth Street<br />
+Troy, New York 12180-3590<br />
+USA
+
+* Locations <br />
+Office: JEC 6220 <br />
+ALSETLab-Maxwell: JEC 6119 <br />
+ALSETLab-Volta: 2327B ECSE, High Bay Area
+
+## Digital
+* Website: [ALSETLab.com](http://www.ALSETLab.com)
+* RPI E-Mail: <mailto:vanfrl@rpi.edu>
+* GMAIL E-mail: <mailto:luigi.vanfretti@gmail.com>
+
+## Analog
+* Mobile: (518) 496 0196
+* Office: ...
 
 Under construction ... more to come.
 
