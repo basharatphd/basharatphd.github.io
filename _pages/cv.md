@@ -16,6 +16,7 @@ Education
 * MSc in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. Major: Electric Power. Minor: Control Systems.
 * Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007.
 
+
 Contact
 ======
 ## Physical
