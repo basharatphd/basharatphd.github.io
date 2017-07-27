@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 * Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
 * Visiting Researcher, The University of Glasgow, Fall 2005.
 * MSc in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. Major: Electric Power. Minor: Control Systems.
 * Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. <br />
 
-Contact
-======
+# Contact
 ## Physical
 * Postal Address:<br />
 Rensselaer Polytechnic Institute<br />
