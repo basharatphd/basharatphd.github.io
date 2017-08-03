@@ -18,6 +18,6 @@ author_profile: true
 Here are some links/bookmarks to resources I have used or use routinely for my research.
 
 ## Useful Python Links
-- [Anaconda Python](https://www.continuum.io/what-is-anaconda): environment for Python and R that includes several pre-installed libraries and tools (e.g. Spyder and Jupyter).
 - [Python Migration](http://bci2000.org/downloads/BCPy2000/Migration.html): list of tips and resources for migrating from Matlab to Python-based systems using NumPy and SciPy.
-
+- [Anaconda Python](https://www.continuum.io/what-is-anaconda): environment for Python and R that includes several pre-installed libraries and tools (e.g. Spyder and Jupyter).
+- [MPCPy](https://github.com/lbl-srg/MPCPy) python-based open-source platform for model predictive control in buildings.
