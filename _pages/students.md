@@ -10,10 +10,11 @@ redirect_from:
 {% include base_path %}
 
 # Current/Former Students and Lab Members
-Please follow this link to the Lab's team roster:
-[Lab Roster!](/students/labroster/)
+- Please follow this link to the Lab's team roster:
+[Lab Roster!](/labroster/)
+- Do you want to be part of the team?; please read on below!
 
-Do you want to be part of the team?; please read on below!
+---------------------------
 
 # Available Positions / Prospective Students
 Read on!
@@ -22,7 +23,7 @@ To work in my team as a MSc or PhD student under my supervision you have to be f
 
 - If you are an undergraduate at RPI, just get in touch with me to book a meeting!
 
-- If you are looking for post-doctoral or research visiting opportunities, please see the following page: [here](./recruiting/)
+- If you are looking for post-doctoral or research visiting opportunities, please see the following page: [here](/recruiting/)
 
 ### RPI's Admission Requirements
 #### List of Requirements
@@ -47,4 +48,4 @@ Here's what you can do to prepare:
 3. Repeat steps 1. and 2. above.
 
 ## Where are the available positions?
-Now that you have ***read the information above***, please find the available positions described [here](./recruiting/).
+Now that you have ***read the information above***, please find the available positions described [here](/recruiting/).
