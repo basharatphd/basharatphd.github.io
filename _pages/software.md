@@ -14,6 +14,19 @@ Below you can find links to repositories for software, data and models that have
   - [OpenIPSL](http://openipsl.org): The [OpenIPSL.org](http://openipsl.org) project with our Modelica library for power system simulation.
 
 ## PST Distribution
-  - Power System Toolbox (PST): click [here](http://www.eps.ee.kth.se/personal/vanfretti/pst/Power_System_Toolbox_Webpage/PST.html).
+    - Power System Toolbox (PST): click [here](http://www.eps.ee.kth.se/personal/vanfretti/pst/Power_System_Toolbox_Webpage/PST.html).
+
+## Curated Collections
+The following lists are curated collections of related software developed within different research projects, but with a similar context.
+
+### Synchrophasor Tools
+To be completed ...
+
+### Syncrhophasor Applications
+To be completed ...
+
+### HVDC Models
+To be completed ...
+
 
 * More to come...

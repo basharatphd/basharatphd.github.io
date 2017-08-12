@@ -9,25 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-# Prospective Students
-## News - Fall 2017!:
-  * I am looking for MSc/PhD students to join ALSETLab @RPI for Spring and Fall 2018.
-  * Positions for 4 students, funded by the ECSE department.
-  * I'm looking for students with:
-    - (a) a strong background on mathematics and physics, control systems theory, digital signal processing, numerical methods, numerical computing, computer engineering or computer science, with interest in modeling and simulation of cyber-physical systems and/or systems engineering. ***You will work on the development of applied system identification methods for power system model validation.***
-    - OR
-    - (b) background with embedded systems, digital signal processing, experience physical laboratory set-up in electrical engineering, experience with substation automation equipment, and interested in the development of experimental platforms for IoT in the area of electrical power. ***You will work on the development of a time-sensitive experimental platform and design of experiments for synchrophasor applications.***
-  * Students should have experience with with experience with the Modelica language and Modelica tools (OM, Dymola, JModelica ...), Python, MATLAB/Simulink, C++ (GNU + Visual Studio), LabVIEW and the cRIO, GIT, PSS/E, Real-Time Simulation, etc.
-  * Brownie points if you have a Github repository, double brownie points if you contribute to a project, triple if you have your own on Github.
-  * More information to come...
+# Current/Former Students and Lab Members
+Please follow this link to the Lab's team roster:
+[Lab Roster!](./_pages/labroster.md)
 
+Do you want to be part of the team?; please read on below!
+
+# Available Positions / Prospective Students
+Read on!
 ## Do you want to work in my team (ALSETLab)?
-To work in my team you have to be formally admitted for graduate studies at RPI. * It is not necessary to contact me prior to application, just indicate that you want to work with me in your documentation once you have fulfilled the requirements for admission.*
+To work in my team as a MSc or PhD student under my supervision you have to be formally admitted for graduate studies at RPI. * It is not necessary to contact me prior to application, just indicate that you want to work with me in your documentation once you have fulfilled the requirements for admission.* Please read the information below.
+
+- If you are an undergraduate at RPI, just get in touch with me to book a meeting!
+
+- If you are looking for post-doctoral or research visiting opportunities, please see the following page: [here](./_pages/recruiting.md)
 
 ### RPI's Admission Requirements
 #### List of Requirements
 - Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/admission/).
 - Check if you are in one of the Embargoed and Sanctioned Countries [here](http://admissions.rpi.edu/graduate/admission/index.html#Anchor-International-49575), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/contact/index.html).
+
 #### Test Scores
 - TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60)
 - GRE Scores:
@@ -45,12 +46,5 @@ Here's what you can do to prepare:
 2. Prepare using a practice book or website: [here](https://www.kaptest.com/gre/gre-practice/free-gre-practice-questions-workout) is a free one.
 3. Repeat steps 1. and 2. above.
 
-# Current Students
-## MSc Students
-## PhD Students
-
-# Former Students
-## Post-Docs
-## PhD Students
-## MSc Students
-## BSc Students
+## Where are the available positions?
+Now that you have ***read the information above***, please find the available positions described [here](./_pages/recruiting.md).
