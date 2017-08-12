@@ -11,7 +11,7 @@ redirect_from:
 
 # Current/Former Students and Lab Members
 Please follow this link to the Lab's team roster:
-[Lab Roster!](./labroster/)
+[Lab Roster!]()
 
 Do you want to be part of the team?; please read on below!
 

@@ -1,11 +1,11 @@
 ---
-permalink: /recruiting/
+permalink: /students/recruiting/
 title: "Recruiting"
 excerpt: "Description of Currently Available Research Positions"
 author_profile: true
 redirect_from:
-  - "/nmp/"
-  - "/nmp.html"
+  - "/students/recruiting/"
+  - "/students/recruiting.html"
 ---
 
 Available Positions: Fall 2017
