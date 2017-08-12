@@ -4,8 +4,7 @@ title: "Recruiting"
 excerpt: "Description of Currently Available Research Positions"
 author_profile: true
 redirect_from:
-  - "/recruiting/"
-  - "/recruiting.html"
+  - "/students/recruiting"
 ---
 
 Available Positions: Fall 2017
