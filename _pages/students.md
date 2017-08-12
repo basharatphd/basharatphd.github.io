@@ -4,14 +4,14 @@ title: "Students / Supervision"
 permalink: /students/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume/
 ---
 
 {% include base_path %}
 
 # Current/Former Students and Lab Members
 Please follow this link to the Lab's team roster:
-[Lab Roster!]()
+[Lab Roster!](/students/labroster/)
 
 Do you want to be part of the team?; please read on below!
 
