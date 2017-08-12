@@ -1,11 +1,11 @@
 ---
-permalink: /students/labroster/
+permalink: /labroster/
 title: "Research Team"
 excerpt: "Current/Former Lab Members and Researchers"
 author_profile: true
 redirect_from:
-  - "/students/labroster/"
-  - "/students/labroster.html"
+  - "/labroster/"
+  - "/labroster.html"
 ---
 
 # Current Students
