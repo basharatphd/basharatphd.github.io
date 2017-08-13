@@ -3,8 +3,6 @@ permalink: /recruiting/
 title: "Recruiting"
 excerpt: "Description of Currently Available Research Positions"
 author_profile: true
-redirect_from:
-  - "/students/recruiting"
 ---
 
 Available Positions: Fall 2017

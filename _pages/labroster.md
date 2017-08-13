@@ -3,9 +3,6 @@ permalink: /labroster/
 title: "Research Team"
 excerpt: "Current/Former Lab Members and Researchers"
 author_profile: true
-redirect_from:
-  - "/labroster/"
-  - "/labroster.html"
 ---
 
 # Current Students
