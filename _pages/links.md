@@ -21,8 +21,10 @@ author_profile: true
 ## Modelica Tools-and-chains
 - [Modelica in Action](https://github.com/mbonvini/ModelicaInAction)  create, compile and simulate Modelica models using JModelica.org.
 
-
-
+## System Identification Tools
+# See also the RaPId Toolbox! (https://github.com/ALSETLab/RaPId)[https://github.com/ALSETLab/RaPId]
+- [DSI Toolbox](https://github.com/ftuffner/DSIToolbox)
+- [CONTSID Toolbox](http://www.contsid.cran.univ-lorraine.fr)
 
 # Bookmarks
 Here are some links/bookmarks to resources I have used or use routinely for my research.
