@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+# Where to publish?
+These is my shortlist of the journals that I think are relevant. I only list Open Access journals where I have published with colleagues, and/or where I have evidence of unbiased quality peer review process.
+- SoftwareX: [link](https://www.journals.elsevier.com/softwarex)
+- Data in Brief: [link](https://www.journals.elsevier.com/data-in-brief)
+- MethodsX: [link](https://www.sciencedirect.com/science/journal/22150161)
+- IEEE Access: [link](http://ieeeaccess.ieee.org)
+
 # Links to Modeling Languages and Tools
 ## Modelica and the FMI Standard
 - [Modelica Association](https://www.modelica.org): developing the Modelica language standard and FMI standard.
@@ -22,7 +29,7 @@ author_profile: true
 - [Modelica in Action](https://github.com/mbonvini/ModelicaInAction)  create, compile and simulate Modelica models using JModelica.org.
 
 ## System Identification Tools
-# See also the RaPId Toolbox! (https://github.com/ALSETLab/RaPId)[https://github.com/ALSETLab/RaPId]
+#### See also the RaPId Toolbox! (https://github.com/ALSETLab/RaPId)[https://github.com/ALSETLab/RaPId]
 - [DSI Toolbox](https://github.com/ftuffner/DSIToolbox)
 - [CONTSID Toolbox](http://www.contsid.cran.univ-lorraine.fr)
 
