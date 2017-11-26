@@ -4,7 +4,7 @@ collection: talks
 type: "Presentations, Talks, etc."
 permalink: /talks/talks
 venue: "Everywhere!"
-date: 2017
+date: 2017-07-01
 location: "Everywhere"
 ---
 
