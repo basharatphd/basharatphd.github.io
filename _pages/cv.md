@@ -78,6 +78,7 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
   - Modelica International Conference 2017 [link](https://www.modelica.org/events/modelica2017/program-committee)
   - Modelica International Conference 2015 [link](https://www.modelica.org/events/modelica2015/program-committee)<br />
 <br />
+
 - Other:<br />
   - IEEE Industrial Electronics Society Conference. Program Committee Member: 2018 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems
   - IEEE Power and Energy Society Conferences. Technical Program Committee Member: 2017 ISGT Latin America
