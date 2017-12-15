@@ -12,7 +12,7 @@ redirect_from:
 # Current/Former Students and Lab Members
 - Please follow this link to the Lab's team roster (past students, post-docs, researchers and visitors):
 [Lab Roster!](/labroster/)
-- Do you want to be part of the team?; please read on below!!! *** I have compiled this information to save both YOU and me time, don't contact me if you haven't read this; I will reply to you asking if you have read this anyway. ***
+- Do you want to be part of the team?; please read on below!!! ***I have compiled this information to save both YOU and me time, don't contact me if you haven't read this; I will reply to you asking if you have read this anyway!***
 
 ---------------------------
 
@@ -39,9 +39,9 @@ While I encourage you to apply, note that the admission to our program is subjec
 
 ### Funding Support for Graduate Studies:
 If you are accepted to RPI's graduate program, there are two forms of support:
-* As a Teaching Assistant (TA): A ** teaching assistantship ** entitles you to a tuition waiver and you will be hired to help as a teaching assistant for 1-2 courses per semester, for which you will be paid a modest stipend. This is a job which you are expected to carry out while taking courses and doing research - it is not a scholarship - you are supposed to be doing the three things simultaneously.
-This means that you technically don't have to pay for your graduate school * during the period when you are supported as a TA* (minor feeds, relocation, etc needs to come from your pocket.) This period is up to 4 semesters (two academic calendar years), and it does not include support during the summer break.
-* As a Research Assistant (RA): A ** research assistantship ** is similar to the TA position, with the difference that you do not have to help in the teaching or grading of courses or labs; and, it typically covers also the summer. (That means you will also receive a stipend during the summer).
+* As a Teaching Assistant (TA): A **teaching assistantship** entitles you to a tuition waiver and you will be hired to help as a teaching assistant for 1-2 courses per semester, for which you will be paid a modest stipend. This is a job which you are expected to carry out while taking courses and doing research - it is not a scholarship - you are supposed to be doing the three things simultaneously.
+This means that you technically don't have to pay for your graduate school *during the period when you are supported as a TA* (minor feeds, relocation, etc needs to come from your pocket.) This period is up to 4 semesters (two academic calendar years), and it does not include support during the summer break.
+* As a Research Assistant (RA): A **research assistantship** is similar to the TA position, with the difference that you do not have to help in the teaching or grading of courses or labs; and, it typically covers also the summer. (That means you will also receive a stipend during the summer).
 An RA position is not a scholarship, you will be working in a research project that is funded by industry or through national research funds. You are expected to **work exclusively** in the research specific to the project all of the time except when you are taking courses.
 
 ### During and after admission (as a TA or RA, or self-funded):
