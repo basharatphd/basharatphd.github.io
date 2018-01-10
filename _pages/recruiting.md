@@ -5,13 +5,15 @@ excerpt: "Description of Currently Available Research Positions"
 author_profile: true
 ---
 
-Available Positions: Fall 2018 - RPI's Application - Deadline January 2nd
+Available Positions:
+- Fall 2018 - RPI's Application - Deadline January 22nd
+- Spring 2019 - Applications will be open in August 2018.
 ======
-* ***Visitors:*** get in touch with me personally. You are welcome to visit for a period of at least one semester (if you hold a PhD) or one year (if you do not have a PhD), and under your own funding. I do not have funds to support your visit. **IMPORTANT:** Check if you are in one of the Embargoed and Sanctioned Countries [here](http://admissions.rpi.edu/graduate/admission/index.html#Anchor-International-49575), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/contact/index.html). ***Note:*** As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. ***This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries.*** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will allow me to receive you as a visitor.
+* ***Visitors:*** get in touch with me personally, at luigi dot vanfretti at gmail dot com. You are welcome to visit for a period of at least one semester (if you hold a PhD) or one year (if you do not have a PhD), and under your own funding. I do not have funds to support your visit. **IMPORTANT:** Check if you are in one of the Embargoed and Sanctioned Countries [here](http://admissions.rpi.edu/graduate/admission/index.html#Anchor-International-49575), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/contact/index.html). ***Note:*** As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. ***This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries.*** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will allow me to receive you as a visitor.
 
 * ***Post-docs:*** no positions available.
 
-* ***Undergrads:*** if you are an undergrad at RPI and you want to work with me doing research, just get in touch with me personally to book a meeting!
+* ***Undergrads:*** if you are an undergrad at RPI and you want to work with me doing research, just get in touch with me personally to book a meeting! Send an email to: luigi dot vanfretti at gmail dot com
 
 ## MSC/PhD Students
 * I am looking for MSc/PhD students to join ALSETLab @RPI for Fall 2018 and Spring 2019.

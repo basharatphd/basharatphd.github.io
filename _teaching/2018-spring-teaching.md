@@ -8,7 +8,7 @@ date: 2017-08-31
 location: "Troy, NY"
 ---
 - Classroom: JEC 6309
-- Lectures Schedule: T W Th 10:00 - 11:50
+- Lectures Schedule: T W F 10:00 - 11:50
 - Office Hours: F 14:00 - 16:00, JEC 6022.
 - Course web: LMS website, click [here](https://lms.rpi.edu/) (only for RPI students.)
 - Link to RPI's Course Catalog, [here](http://catalog.rpi.edu/index.php)
