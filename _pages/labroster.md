@@ -1,7 +1,7 @@
 ---
+layout: archive
+title: "Members"
 permalink: /labroster/
-title: "Research Team"
-excerpt: "Current/Former Lab Members and Researchers"
 author_profile: true
 ---
 
