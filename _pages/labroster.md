@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Members"
+title: "Lab Members"
 permalink: /labroster/
 author_profile: true
+redirect_from:
+  - /resume/
 ---
 
 # Current Researchers and Students @ALSETLab
