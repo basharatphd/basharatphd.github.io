@@ -7,7 +7,9 @@ redirect_from:
   - /resume/
 ---
 {% include base_path %}
+
 # Current Researchers and Students @ALSETLab
+
 ## Researchers
 - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) working on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab.
 
@@ -36,8 +38,10 @@ redirect_from:
 # Current Students that I (co) supervise in other institutions
 - [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
 
+---
 
 # Former Students
+
 ## Post-Docs
   - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developing [TRISTAN](https://github.com/ALSETLab/TRISTAN).
   - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) worked with me in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) on research related to PMU Applications for Distribution Networks, a bench-mark model for real-time simulation and testing is available on [Github](https://github.com/ALSETLab/ADN-RT-EMTP-Model).

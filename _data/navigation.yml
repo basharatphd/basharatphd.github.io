@@ -1,17 +1,17 @@
 # main links links
 main:
 
-  - title: "Contact/CV"
+  - title: "Contact & CV"
     url: /cv/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "ALSETLab Members"
+    url: /labroster/
 
-  - title: "Students/Supervision"
+  - title: "Join ALSETLab!"
     url: /students/
 
-  - title: "Research"
-    url: /research/
+  - title: "Talks"
+    url: /talks/
 
   - title: "Software"
     url: /software/
@@ -19,8 +19,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Links"
     url: /Links/
