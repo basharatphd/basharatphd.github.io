@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume/
 ---
+{% include base_path %}
 # Current Researchers and Students @ALSETLab
 ## Researchers
 - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) working on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab.
@@ -32,14 +33,15 @@ redirect_from:
 # Current Students that I Co-supervise @RPI
 - [Stavros Konstantinopoulos](https://www.linkedin.com/in/stavros-konstantinopoulos-1366a6113/) working on performance analysis of power system controls in ambient conditions. Co-supervised with [Prof. Joe H. Chow.](https://www.ecse.rpi.edu/~chowj/)
 
-# Current Students that I (co) supervise elsewhere
+# Current Students that I (co) supervise in other institutions
 - [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
 
 
 # Former Students
 ## Post-Docs
-  - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project.
-  - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) worked with me in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html).
+  - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developing [TRISTAN](https://github.com/ALSETLab/TRISTAN).
+  - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) worked with me in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) on research related to PMU Applications for Distribution Networks, a bench-mark model for real-time simulation and testing is available on [Github](https://github.com/ALSETLab/ADN-RT-EMTP-Model).
+  - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
 ## PhD Students
 
@@ -49,7 +51,7 @@ redirect_from:
   - 2015 - [Yuwa Chompoobutrgool](https://www.linkedin.com/in/yuwa-chompoobutrgool-7b977222/). Worked on Aspects  of Wide-Area Damping Control Design using Dominant Path Synchrophasor Signals. Download her [Lic. Thesis](https://ecse.rpi.edu/~vanfrl/documents/licenciatethesis/2012_Yuwa_LicThesis.pdf) and [PhD. Thesis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2015_Yuwa_PhD_Thesis.pdf).
   - 2012 - [Rujiroj Leelaruji
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf).
-  
+
 ## MSc Students
 ... to be updated
 ## BSc Students
