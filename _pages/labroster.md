@@ -57,6 +57,17 @@ redirect_from:
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf).
 
 ## MSc Students
-... to be updated
+
+- 2012 - []() worked on []().
+- 2012 - []() worked on []().
+- 2012 - []() worked on []().
+- 2011 - [Alexander Henry](https://www.linkedin.com/in/alexandre-henry-48591028/) worked on [Modeling and dynamic analysis of offshore wind farms in France: Impact on power system stability](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_AH_MscThesis.pdf).
+- 2011 - [M. Shoaib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [PMU-Assisted Local Optimization of the Coordination between Protective Systems and Reactive Power Compensation Devices](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_Almas_MSc_Thesis.pdf).
+- 2011 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) worked on [Hydro Turbine and Governor Modeling and Scripting for Small-Signal and Transient Stability Analysis of Power Systems](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_WL_MSc_Thesis.pdf).
+- 2011 - [Sebastian Bengtsson](https://www.linkedin.com/in/sebastian-bengtsson-46544427/) worked on [Estimation of electromechanical oscillations in the Nordic Power System using synchrophasor measurement data](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_SB_MSc_Thesis.pdf).
+
+
 ## BSc Students
-... to be updated
+- 2017 []() worked on [](). Supervised mainly by [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) as part of the [OpenCPS.eu](https://opencps.eu) project.
+- 2017 []() worked on []()
+- 2011 [Kim Weyrich]() worked on [Integration of Renewable Energy Resources via Classic HVDC]().
