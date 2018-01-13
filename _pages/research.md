@@ -8,7 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
+---
 # Research Areas
+
 * Synchronized phasor measurement technologies and PMU Apps.
 * Modeling and Simulation of cyber-physical systems in general, specializing in power systems; real-time simulation, multi-domain simulation, co-simulation.
 * Application of System Identification Methods to cyber-physical power system modeling, monitoring and control.
@@ -58,7 +60,6 @@ redirect_from:
   - Code generation for real-time simulation and embedded systems.
   - Currently un-funded. Contact me to support this project!  
 
----
 
 ## Past Research - Major Funded Projects
 

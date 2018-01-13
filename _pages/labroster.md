@@ -57,10 +57,27 @@ redirect_from:
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf).
 
 ## MSc Students
-
-- 2012 - []() worked on []().
-- 2012 - []() worked on []().
-- 2012 - []() worked on []().
+- 2017 - []() worked on [](). Publications in progress - Thesis available after publications are accepted.
+- 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on . Publications in progress - Thesis available after publications are accepted.
+- 2016 - [Narasimham Arava](https://www.linkedin.com/in/narasimham-arava-815aa535/) worked on Voltage Stability Assessment of Power Systems by Decision Tree Classification and Preventive Control by Pre-Computing Secure Operating Conditions. Publications in progress - Thesis available after publications are accepted.
+- 2016 - [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) worked on Power System Dynamic Equivalencing and Calibration using Modelica and RaPId. Publications in progress - Thesis available after publications are accepted.
+- 2016 - [Narender Singh](https://www.linkedin.com/in/narender-singh-76aa338a/) worked on [Feeder Dynamic Rating Application for Active Distribution Networks using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2016_Narender_MSc_Thesis.pdf).
+- 2015 - [Seyed Reza Firouzi](https://www.linkedin.com/in/reza-firouzi/) worked on [Design, Implementation and Validation of an IED 619850-90-5 Gateway for IEEE C37.118.2 Synchrophasor Data Transfer](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Seyed_Reza%20Firouzi_MSc%20thesis%20report.pdf).
+- 2015 - [Ravi Shankar Singh](https://www.linkedin.com/in/ravi-shankar-singh-15ba1434/) worked on [Assessment of Timing Requirements of Phasor Measurement Units](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Ravi_MScThesis.pdf).
+- 2015 - [Guðrún Margrét Jónsdóttir](https://www.facebook.com/krokkodilli) worked on [Real-Time PMU-Assisted wide-Area Oscillation Damping using Active Load Control](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Gudrun_MScThesis.pdf).
+- 2015 - [Mohammad Ahsan Adib Murad](https://www.linkedin.com/in/maamurad/) worked on [Phasor Time-Domain Power System Modeling and Simulation using the Standardized Modelica Language: Conventional and Power Electronic-Based Devices](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Ahsan_MScThesis.pdf).
+- 2015 - [Menghia Zhang](https://www.linkedin.com/in/mengjiazhang/) worked on [MANGO - Modelica Classes of the Norvegian Grid for iTesla and SW-to-SW Validation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_MengjiaZhang_MScThesis.pdf).
+- 2015 - [Le Qi](https://www.linkedin.com/in/le-qi-6bb4a483/) worked on [Modelica Driven Power System Modeling, Simulation and Validation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2014_LeQi_MScThesis.pdf).
+- 2014 - [MD Rokibul Hasan](https://www.linkedin.com/in/md-rokibul-hasan-77854333/) worked on [Development, calibration and simulation of generic VSC-HVDC high level controls for DC grid Simulation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2014_Rokib_MSc_Thesis.pdf).
+- 2014 - [Jahid Razan](https://www.linkedin.com/in/jahid-razan-939002aa/) worked on [VSC – HVDC Modelica Models for Power System Time Domain Simulation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2014_Jahidul_MScThesis.pdf).
+- 2014 - [Robert Rogersten](https://www.linkedin.com/in/robert-rogersten-5a6b0595/) worked on [VSC-HVDC System Modeling and Validation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_ROBERT_ROGERSTEN_MScThesis.pdf).
+- 2014 - [Thibault Vandewoestyne](https://www.linkedin.com/in/thibault-vandewoestyne-24681546/) worked on [Test Scenarios for Validation of the Offline Workflow of the iTesla Toolbox for Small-Signal Stability Assessment](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Thimbault_MScThesis.pdf).
+- 2014 - [Eldrich Rebello](https://www.linkedin.com/in/eldrichrebello/) worked on [Real-Time PMU Assisted Wide-Area Oscillation Damping using Compact Reconfigurable Controllers](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2014_Eldrich_MScThesisKTH_Cover.pdf).
+- 2013 - [Maxime Baudette](http://baudette.fr/) worked on [Fast Real-time Detection of Sub-Synchronous Oscillations in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2013_Maxime_MScThesis.pdf).
+- 2013 - [Joan Russiñol Mussons](https://www.linkedin.com/in/joanrm/) worked on [Modelica-Driven Power System Modeling, Parameter Identification and Physically-Based Model Aggregation](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2013_Joan_MSc_Thesis.pdf).
+- 2012 - [Jan Lavenius](https://www.linkedin.com/in/jan-lavenius-3a6a0595/) worked on [An Algorithm for Finding Minimal Load Interruption Costs](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2012_JanLavenius_MScThesis.pdf).
+- 2012 - Adrien Guironnet worked on [Static security criteria for voltage stability assessment in the French transmission grid](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2012_AG_MSc_Thesis.pdf).
+- 2012 - [Mostafa Farrokhabadi](https://www.linkedin.com/in/mostafafarrokh/) worked on [Automated Topology Processing for Conventional, Phasor-Assisted and Phasor-Only State Estimators](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2012_MostafaF_MScThesis.pdf).
 - 2011 - [Alexander Henry](https://www.linkedin.com/in/alexandre-henry-48591028/) worked on [Modeling and dynamic analysis of offshore wind farms in France: Impact on power system stability](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_AH_MscThesis.pdf).
 - 2011 - [M. Shoaib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [PMU-Assisted Local Optimization of the Coordination between Protective Systems and Reactive Power Compensation Devices](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_Almas_MSc_Thesis.pdf).
 - 2011 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) worked on [Hydro Turbine and Governor Modeling and Scripting for Small-Signal and Transient Stability Analysis of Power Systems](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2011_WL_MSc_Thesis.pdf).
@@ -68,6 +85,6 @@ redirect_from:
 
 
 ## BSc Students
-- 2017 []() worked on [](). Supervised mainly by [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) as part of the [OpenCPS.eu](https://opencps.eu) project.
-- 2017 []() worked on []()
-- 2011 [Kim Weyrich]() worked on [Integration of Renewable Energy Resources via Classic HVDC]().
+- 2017 [Fanny Radesjö](https://www.linkedin.com/in/fanny-radesjö-971a8911a/) worked on [Parameter Identification and Information Modeling of Gas Turbine Models for Power System Simulations](https://ecse.rpi.edu/~vanfrl/documents/bscreports/2017_Fanny_BSc_report.pdf). Supervised together with [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) as part of the [OpenCPS.eu](https://opencps.eu) project.
+- 2017 - Gustav Holm worked on [Automated Model Transformation for Cyber- Physical Power System Models](https://ecse.rpi.edu/~vanfrl/documents/bscreports/2017_Gustav_BSc_Report.pdf). Supervised together with [Francisco Gomez Lopez](https://www.linkedin.com/in/gomezlopez/) as part of the [OpenCPS.eu](https://opencps.eu) project.
+- 2011 [Kim Weyrich](https://www.linkedin.com/in/kim-weyrich-03738b84/) worked on [Real-Time Implementation of an Automatic Voltage Stabilizer for HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/bscreports/).

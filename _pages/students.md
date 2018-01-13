@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students / Supervision"
+title: "Join ALSETLab"
 permalink: /students/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
-# Join ALSETLab
+# About Joining my Team: ALSETLab
 
 - *Do you want to be part of the team?* please read on below!!!
   - **I have compiled this information to save both, YOU and me, our valuable time.** There is important information regarding admission to graduate studies at RPI.
