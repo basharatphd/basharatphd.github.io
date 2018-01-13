@@ -10,8 +10,6 @@ redirect_from:
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab (a research group and a laboratory) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
 
-This website is under construction, more information will be uploaded shortly.
-
 ### About ALSETLab
 ALSETLab is the name of Luigi's research group and also the real-time hardware-in-the-loop laboratory being built at RPI. The acronym stands for (ALSET: Analysis Laboratory for Synchrophasor and Electrical energy Technology) and (Lab: for Lab).
 
