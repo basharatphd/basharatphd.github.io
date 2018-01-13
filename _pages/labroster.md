@@ -57,11 +57,12 @@ redirect_from:
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf).
 
 ## MSc Students
-- 2017 - []() worked on [](). Publications in progress - Thesis available after publications are accepted.
-- 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on . Publications in progress - Thesis available after publications are accepted.
+- 2017 - [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) worked on Semantic and Physical Modeling and Simulation of Multi-Domain Energy Systems: Gas Turbines and Electrical Power Networks. Publications in progress - Thesis available after publications are accepted.
+- 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on Automatic Resynchronization of an Islanded Power Network. Publications in progress - Thesis available after publications are accepted.
 - 2016 - [Narasimham Arava](https://www.linkedin.com/in/narasimham-arava-815aa535/) worked on Voltage Stability Assessment of Power Systems by Decision Tree Classification and Preventive Control by Pre-Computing Secure Operating Conditions. Publications in progress - Thesis available after publications are accepted.
 - 2016 - [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) worked on Power System Dynamic Equivalencing and Calibration using Modelica and RaPId. Publications in progress - Thesis available after publications are accepted.
 - 2016 - [Narender Singh](https://www.linkedin.com/in/narender-singh-76aa338a/) worked on [Feeder Dynamic Rating Application for Active Distribution Networks using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2016_Narender_MSc_Thesis.pdf).
+- 2016 - [Albane Schwob](https://www.linkedin.com/in/albane-schwob-3bb78393/) worked on the [Analysis of load models used in black-start studies](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2016_Albane_MScThesis.pdf).
 - 2015 - [Seyed Reza Firouzi](https://www.linkedin.com/in/reza-firouzi/) worked on [Design, Implementation and Validation of an IED 619850-90-5 Gateway for IEEE C37.118.2 Synchrophasor Data Transfer](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Seyed_Reza%20Firouzi_MSc%20thesis%20report.pdf).
 - 2015 - [Ravi Shankar Singh](https://www.linkedin.com/in/ravi-shankar-singh-15ba1434/) worked on [Assessment of Timing Requirements of Phasor Measurement Units](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Ravi_MScThesis.pdf).
 - 2015 - [Guðrún Margrét Jónsdóttir](https://www.facebook.com/krokkodilli) worked on [Real-Time PMU-Assisted wide-Area Oscillation Damping using Active Load Control](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Gudrun_MScThesis.pdf).
