@@ -28,6 +28,8 @@ location: "Different Locations"
   - You can access the video by providing your email and organization here: [link](http://mediasite.utk.edu/UTK/Play/847c48c7feed4d54b3574047525291c51d)
   - Download the slides here: [link](http://curent.utk.edu/index.php/download_file/view/3259/1309/)
 
+---
+
 # Presentations
 
   - Available materials from presentations are uploaded on Luigi's Slideshare page: [link](https://www.slideshare.net/luigivanfretti)
