@@ -4,14 +4,8 @@ main:
   - title: "Contact & CV"
     url: /cv/
 
-  - title: "ALSETLab Members"
-    url: /labroster/
-
-  - title: "Join ALSETLab!"
-    url: /students/
-
-  - title: "Talks"
-    url: /talks/
+  - title: "Research"
+    url: /research/
 
   - title: "Software"
     url: /software/
@@ -19,11 +13,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
-    url: /research/
+  - title: "Talks"
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "ALSETLab Members"
+    url: /labroster/
+
+  - title: "Join ALSETLab!"
+    url: /students/
 
   - title: "Links"
     url: /Links/

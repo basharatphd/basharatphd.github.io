@@ -18,6 +18,8 @@ redirect_from:
 * Network science application to cyber-physical power system problems.
 * Open source software, open hardware, open standards.
 
+---
+
 # Research Projects
 ## On-going Research  
 
@@ -56,8 +58,15 @@ redirect_from:
   - Code generation for real-time simulation and embedded systems.
   - Currently un-funded. Contact me to support this project!  
 
-## Past Research: Major Funded Projects
-- []
+---
 
+## Past Research - Major Funded Projects
 
-* Under construction ... more details to come.
+Below, I list only the most relevant and large projects that I've carried out in the past, in order of relevance (the ones that I liked the most are first).
+
+Contact me for further information regarding smaller past projects.
+
+The Top Three Past Projects:
+- [opencps.eu](https://opencps.eu): Open Cyber-Physical System Model-Driven Certified Development. With tool interoperability, vendor lock-ins and tool life-cycle support as major challenges, this research project focuses on interoperability between the Modelica/Unified Modeling Language (UML)/Functional Mock-up Interface (FMI) standards, improved (co-)simulation execution speed, and verified code generation.
+- The [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) project developed a substation automation architecture, and we contributed with a synchrophasor protocol gateway and PMU for distribution networks.
+- The [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developed a dynamic security assessment software platform, mostly used in France.
