@@ -4,6 +4,12 @@ main:
   - title: "Contact & CV"
     url: /cv/
 
+  - title: "Members"
+    url: /labroster/
+
+  - title: "Join!"
+    url: /students/
+
   - title: "Research"
     url: /research/
 
@@ -18,12 +24,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "ALSETLab Members"
-    url: /labroster/
-
-  - title: "Join ALSETLab!"
-    url: /students/
 
   - title: "Links"
     url: /Links/
