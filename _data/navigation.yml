@@ -10,6 +10,9 @@ main:
   - title: "Join!"
     url: /students/
 
+  - title: "Donors/Donate!"
+    url: /donate/
+
   - title: "Research"
     url: /research/
 
