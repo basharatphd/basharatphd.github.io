@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Lab Members"
-permalink: /labroster/
+title: "Donate!"
+permalink: /donate/
 author_profile: true
 redirect_from:
   - /resume/
