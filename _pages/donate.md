@@ -4,7 +4,7 @@ title: "Donate!"
 permalink: /donate/
 author_profile: true
 redirect_from:
-  - /resume/
+  - /donate/
 ---
 {% include base_path %}
 
