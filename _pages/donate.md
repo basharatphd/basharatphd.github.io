@@ -26,6 +26,7 @@ To donate, please get in touch directly with me <luigi.vanfretti@gmail.com>; or 
 ![dom](https://alsetlab.github.io/images/donors/DE_logo.png "DE Logo")
 - [Dominion Energy](https://www.dominionenergy.com) has made a substantial donation equipment and engineering time to set up a specialized rack for substation automation and synchrophasor applications. We would like to thank Dominion in general, and in particular, to Dr. [Matthew Gardner](http://www.tdworld.com/overhead-transmission/born-engineer), Dr. [Kevin D. Jones](https://www.linkedin.com/in/kevindavidjones/) and Mr. [Kyle Thomas](https://www.linkedin.com/in/mkylethomas/) for making this donation possible.  
 
+
 ![SEL](https://alsetlab.github.io/images/donors/SEL_logo.png "SEL Logo")
 - [Schweitzer Engineering Laboratories]() has made a substantial donation equipment and engineering time to set up a specialized rack for substation automation and synchrophasor applications. We would like to thank SEL in general, and in particular, to Dr. [Greg Zweigle](https://www.linkedin.com/in/greg-zweigle-4211b064/) and Miss [Jennifer White](https://www.linkedin.com/in/jenniferawhite/) for making this donation possible.
   - Note: Schweitzer Engineering Laboratories has been extremely generous with me (Luigi) since 2011 when I developed the now defunct SmarTS Lab. They have previously donated equipment, software and their time, which was a contribution towards my previous research... we still have and use all of it for our work! This company is a great example of American generosity! Thank you!!!
