@@ -22,16 +22,18 @@ To donate, please get in touch directly with me <luigi.vanfretti@gmail.com>; or 
 
 # Donors
 ## Equipment and Engineering Services
-
+<br><br>
 ![dom](https://alsetlab.github.io/images/donors/DE_logo.png "DE Logo")
-- [Dominion Energy](https://www.dominionenergy.com) has made a substantial donation equipment and engineering time to set up a specialized rack for substation automation and synchrophasor applications. We would like to thank Dominion in general, and in particular, to Dr. [Matthew Gardner](http://www.tdworld.com/overhead-transmission/born-engineer), Dr. [Kevin D. Jones](https://www.linkedin.com/in/kevindavidjones/) and Mr. [Kyle Thomas](https://www.linkedin.com/in/mkylethomas/) for making this donation possible.  
-
+- [Dominion Energy](https://www.dominionenergy.com) has made a substantial donation equipment and engineering time to set up a specialized rack for substation automation and synchrophasor applications. We would like to thank Dominion in general, and in particular, to Dr. [Matthew Gardner](http://www.tdworld.com/overhead-transmission/born-engineer), Dr. [Kevin D. Jones](https://www.linkedin.com/in/kevindavidjones/) and Mr. [Kyle Thomas](https://www.linkedin.com/in/mkylethomas/) for making this donation possible.
+<br><br>
+<br><br>
 
 ![SEL](https://alsetlab.github.io/images/donors/SEL_logo.png "SEL Logo")
 - [Schweitzer Engineering Laboratories]() has made a substantial donation equipment and engineering time to set up a specialized rack for substation automation and synchrophasor applications. We would like to thank SEL in general, and in particular, to Dr. [Greg Zweigle](https://www.linkedin.com/in/greg-zweigle-4211b064/) and Miss [Jennifer White](https://www.linkedin.com/in/jenniferawhite/) for making this donation possible.
   - Note: Schweitzer Engineering Laboratories has been extremely generous with me (Luigi) since 2011 when I developed the now defunct SmarTS Lab. They have previously donated equipment, software and their time, which was a contribution towards my previous research... we still have and use all of it for our work! This company is a great example of American generosity! Thank you!!!
 
-## Contributions towards equipment procurement
+## Contributions towards equipment purchasing
+<br><br>
 ![GER](https://alsetlab.github.io/images/donors/GER_logo.png "GERC Logo")
 - [General Electric](https://www.ge.com) through it's [GE Global Research](https://www.geglobalresearch.com) granted us with a substantial contribution for our real-time digital simulation laboratory, which closely aligns with [GE's "digital twin" initiative](https://www.ge.com/digital/industrial-internet/digital-twin), on behalf of [Nicholas Miller](https://www.linkedin.com/in/nicholas-miller-0517375a/) through his 2017 Edison/Edison Pioneer Award. We would like to thank SEL in general, and in particular, to Nick Miller for making this possible. Congratulations for your well deserved award Nick, we hope to support your [vision for renewable energy](https://www.ge.com/reports/experts-6-bright-ideas-golden-age-renewable-energy/)!
 
