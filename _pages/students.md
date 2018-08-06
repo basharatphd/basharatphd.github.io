@@ -67,10 +67,12 @@ You are also expected to deliver at the same rate as other students under an RA.
   - *** Note: *** As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. ***This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries.*** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will admitt you.
 
 ### Test Scores: **Minimum Requirements**
-- TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60)
 - GRE Scores:
   - ***Category 1.*** Verbal: 156, Quantitative: 146, Analytical: 4.0
-  - ***Category 2.*** Verbal: 149, Quantitative: 155, Analytical: 3.5
+  - ***Category 2.*** Verbal: 152, Quantitative: 142, Analytical: 3.5
+  - ***Category 3.*** Verbal: 149, Quantitative: 155, Analytical: 3.5
+
+- TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) - these are minimum thresholds.
 
 - *** Don't shoot for the minimum! *** The list above tells you the *** minimum *** scores for Institute-wide admission. Note that you are competing against applicants from everywhere in the world, and obviously, this means that your scores will be used as a basis for ranking you for admission. Don't shoot for the minimum, get as high scores as possible.
 
