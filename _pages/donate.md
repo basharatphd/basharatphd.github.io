@@ -12,7 +12,11 @@ redirect_from:
 
 Donating towards our research and education activities is an investment to the future generations of engineers and researchers that are trained and educated @ALSETLab, and to foster continued growth in engineering.
 
-Carrying out research is costly, research funds are normally gathered through funding from grant applications which mostly cover the researchers salaries and tuition, and some other things like going to conferences and publishing papers. The normal cycle of obtaining funding is long and uncertain, which makes it difficult to carry out long term projects such as those you can see in our [Github](https://alsetlab.github.io/software/) repositories.
+Carrying out research is costly, research funds are normally gathered through funding from grant applications which mostly cover the researchers salaries and tuition, and some other things like going to conferences and publishing papers.
+
+Several of our projects or initiatives that have the potential to be transformative in nature and/or position RPI to be a leader in power grid research do not qualify for funding from traditional research grants. The normal cycle of obtaining funding is long and uncertain, which makes it difficult to carry out long term projects such as those you can see in our [Github](https://alsetlab.github.io/software/) repositories.
+
+You can support ALSETLab through in-cash or other kind of donations (e.g. equipment, software licenses or engineering services) to provide these efforts with the resources these novel and revolutionary ideas the opportunity to succeed.​ Contributions can be made through check’s or money orders payable to Rensselaer Polytechnic Institute, with a letter stating that the funds should specifically support Prof. Luigi Vanfretti’s / ALSETLab's research efforts.
 
 Below, is a list of our generous donors, contributing to the development of our real-time hardware-in-the loop simulation platform for experimental testing, and our other research & education activities.
 
