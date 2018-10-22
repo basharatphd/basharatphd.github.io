@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-
-# The Lab!
 ## ALSETLab is also a Real-Time Simulation Hardware-In-the-Loop Facility!
 ![labsmall](https://ecse.rpi.edu/~vanfrl/documents/thelab/01_overview_p2.png "Small Lab Picture")
 
@@ -16,8 +14,7 @@ redirect_from:
 Please download our informational flyers in the following links:
   - [Overview - General Public](https://ecse.rpi.edu/~vanfrl/documents/thelab/01_overview.pdf)
   - [Overview showing timing and comms layers](https://ecse.rpi.edu/~vanfrl/documents/thelab/02_overview_plus_layers.pdf)
-  - [Overview of our in-house tools software toolssour
-  ](https://ecse.rpi.edu/~vanfrl/documents/thelab/03_tools.pdf)  
+  - [Overview of our in-house tools software tools](https://ecse.rpi.edu/~vanfrl/documents/thelab/03_tools.pdf)  
 
 ## Lab Description
 Digitalization and renewable energy sources bring tremendous possibilities to
