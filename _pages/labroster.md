@@ -18,22 +18,25 @@ redirect_from:
 
 ## PhD Students @RPI
 - [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - working on mission critical, time-sensitive and real-time synchrophasor technologies for distribution networks.
+- [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) working on joint modeling and simulation of transmission and distribution networks, [sample paper](https://www.researchgate.net/publication/326073560_Modeling_and_simulation_of_a_hybrid_single-phasethree-phase_system_in_modelica).
+- [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on STATCOM model verification, validation and optimization using digital twins.
 
 ## PhD Students NOT @RPI
-- [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) working on [Real-Time State Estimation of Hybrid AC/DC Grids using PMUs](http://ieeexplore.ieee.org/document/8119486/)
 - [Maxime Baudette](http://www.baudette.fr) working on Synchrophasor-Based Model Validation,Calibration and Control Optimization of Power Networks, and main developer of the [OpeinIPSL.org](http://openipsl.org), among many many [other things...](https://github.com/maximebaudette)
-- [Jan Lavenius](https://www.linkedin.com/in/jan-lavenius-3a6a0595/) working on Real-Time Voltage Stability Analysis and Control using PMUs [(sample paper)](http://ieeexplore.ieee.org/document/7165477/), and many machine learning things.
-- [Farhan Mahmood](https://www.linkedin.com/in/farhan-mahmood-a04a003b/) working on [Steady State Model Synthesis Method for a Three-Phase Unbalanced Active Distribution Network](http://ieeexplore.ieee.org/document/8254341/)
+- [Jan Lavenius](https://www.linkedin.com/in/jan-lavenius-3a6a0595/) working assisted input and state estimation from PMU data [(sample paper)](https://ieeexplore.ieee.org/document/8481338), and many machine learning things.
 - [Francisco Gomez Lopez](https://www.linkedin.com/in/gomezlopez/) working on [CIM-Compliant Power System Dynamic Model-to-Model Transformation and Modelica Simulation](http://ieeexplore.ieee.org/document/8231176/), co-supervised by [Svein H. Olsen](https://www.linkedin.com/in/sveinolsen/).
 
 ## MSc Students
-- None, ;-(
+- [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) working on control and protection modeling using finite state machines and other automata.
+- [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) working on generator parameter identification and uncertainty quantification.
+- [Katheryn Flynn](https://www.ecse.rpi.edu/news/grainger-scholars/2018-recipients) working on modeling and simulation of ensemble control of stratified water tanks for ancillary service provisioning in active distribution networks.
 
-## Undergrads helping with research
-- 2018: Dominic, Adrian Tirada
+## Undergrads helping with research through the Undergraduate Research Program @RPI
+- 2018 Fall:  John Reed, Jordan E. Grey, Emmet Alexander Williamson, Megan Twiss, Justin R. Johnson, Daniel Napora.
+- 2018 Summer: John Reed, Jordan E. Grey, Emmet Alexander Williamson, Nathan Mascari, Seth W. Halpern.
 
 # Current Students that I Co-supervise @RPI
-- [Stavros Konstantinopoulos](https://www.linkedin.com/in/stavros-konstantinopoulos-1366a6113/) working on performance analysis of power system controls in ambient conditions. Co-supervised with [Prof. Joe H. Chow.](https://www.ecse.rpi.edu/~chowj/)
+- [Stavros Konstantinopoulos](https://www.linkedin.com/in/stavros-konstantinopoulos-1366a6113/) working on forced oscillation analysis. Co-supervised with [Prof. Joe H. Chow.](https://www.ecse.rpi.edu/~chowj/)
 
 # Current Students that I (co) supervise in other institutions
 - [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
@@ -48,7 +51,8 @@ redirect_from:
   - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
 ## PhD Students
-
+- 2018 - [Farhan Mahmood](https://www.linkedin.com/in/farhan-mahmood-a04a003b/) working on [Synchrophasor based Steady State Model Synthesis of Active Distribution Networks](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1223943)
+- 2018 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) working on [PMU-based State Estimation for Hybrid AC and DC Grids](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1191306)
   - 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf)
   - 2017 - [M. Shoib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [Synchrophasor Applications and their Vulnerability to Time Synchronization Impairment](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Almas_PhD_Thesis.pdf)
   - 2016 -[Vedran Peric](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A903639&dswid=-3135) worked on [Non-intrusive Methods for Mode Estimation in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2016_Peric_PhD_Thesis.pdf).
