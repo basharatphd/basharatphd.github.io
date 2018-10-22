@@ -4,6 +4,9 @@ main:
   - title: "Contact & CV"
     url: /cv/
 
+  - title: "The Lab!"
+    url: /lab/
+
   - title: "Members"
     url: /labroster/
 
