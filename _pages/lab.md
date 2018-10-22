@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "The Lab"
+title: "The Lab!"
 permalink: /lab/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+---
 
 # The Lab!
 ## ALSETLab is also a Real-Time Simulation Hardware-In-the-Loop Facility!
