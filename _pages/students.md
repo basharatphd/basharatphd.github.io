@@ -11,6 +11,13 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
+## Important Note to Students from Embargoed and Sanctioned Countries
+  - ** Note: ** Check if you are in one of the Embargoed and Sanctioned Countries [here](https://www.export.pitt.edu/embargoed-and-sanctioned-countries), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/).
+  - As of Fall 2018, the following countries are in the embargoed list: Crimea - Region of Ukraine, Cuba, Iran, North Korea, Sudan, and Syria.
+  - Students from Iran, please pay particular notice, as I receive regular emails regarding admissions.
+
+  - As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. *** This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries. *** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will grant you admission or visit permission.
+
 # About Joining my Team: ALSETLab
 
 - *Do you want to be part of the team?* please read on below!!!
@@ -62,15 +69,11 @@ You are also expected to deliver at the same rate as other students under an RA.
 ## RPI's Admission Requirements
 
 ### List of Requirements
-- Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/admission/).
-- **IMPORTANT:** Check if you are in one of the Embargoed and Sanctioned Countries [here](http://admissions.rpi.edu/graduate/admission/index.html#Anchor-International-49575), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/contact/index.html).
-  - *** Note: *** As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. ***This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries.*** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will admitt you.
+- Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/).
+- **IMPORTANT:** see the notes above regarding Sanctioned and Embargoed countries.
 
 ### Test Scores: **Minimum Requirements**
-- GRE Scores:
-  - ***Category 1.*** Verbal: 156, Quantitative: 146, Analytical: 4.0
-  - ***Category 2.*** Verbal: 152, Quantitative: 142, Analytical: 3.5
-  - ***Category 3.*** Verbal: 149, Quantitative: 155, Analytical: 3.5
+- GRE Scores - Verbal: 156, Quantitative: 146, Analytical: 4.0
 
 - TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) - these are minimum thresholds.
 

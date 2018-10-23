@@ -35,10 +35,16 @@ redirect_from:
 - 2018 Fall:  John Reed, Jordan E. Grey, Emmet Alexander Williamson, Megan Twiss, Justin R. Johnson, Daniel Napora.
 - 2018 Summer: John Reed, Jordan E. Grey, Emmet Alexander Williamson, Nathan Mascari, Seth W. Halpern.
 
-# Current Students that I Co-supervise @RPI
+# Visitors
+
+- 2018: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
+
+# Other Current Students
+
+## Current Students that I Co-supervise @RPI
 - [Stavros Konstantinopoulos](https://www.linkedin.com/in/stavros-konstantinopoulos-1366a6113/) working on forced oscillation analysis. Co-supervised with [Prof. Joe H. Chow.](https://www.ecse.rpi.edu/~chowj/)
 
-# Current Students that I (co) supervise in other institutions
+## Current Students that I (co) supervise in other institutions
 - [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
 
 ---
@@ -53,18 +59,18 @@ redirect_from:
 ## PhD Students
 - 2018 - [Farhan Mahmood](https://www.linkedin.com/in/farhan-mahmood-a04a003b/) working on [Synchrophasor based Steady State Model Synthesis of Active Distribution Networks](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1223943)
 - 2018 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) working on [PMU-based State Estimation for Hybrid AC and DC Grids](http://www.diva-portal.org/smash/record.jsf?pid=diva2:1191306)
-  - 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf)
-  - 2017 - [M. Shoib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [Synchrophasor Applications and their Vulnerability to Time Synchronization Impairment](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Almas_PhD_Thesis.pdf)
-  - 2016 -[Vedran Peric](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A903639&dswid=-3135) worked on [Non-intrusive Methods for Mode Estimation in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2016_Peric_PhD_Thesis.pdf).
-  - 2015 - [Yuwa Chompoobutrgool](https://www.linkedin.com/in/yuwa-chompoobutrgool-7b977222/). Worked on Aspects  of Wide-Area Damping Control Design using Dominant Path Synchrophasor Signals. Download her [Lic. Thesis](https://ecse.rpi.edu/~vanfrl/documents/licenciatethesis/2012_Yuwa_LicThesis.pdf) and [PhD. Thesis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2015_Yuwa_PhD_Thesis.pdf).
-  - 2012 - [Rujiroj Leelaruji
+- 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf)
+- 2017 - [M. Shoib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [Synchrophasor Applications and their Vulnerability to Time Synchronization Impairment](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Almas_PhD_Thesis.pdf)
+- 2016 -[Vedran Peric](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A903639&dswid=-3135) worked on [Non-intrusive Methods for Mode Estimation in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2016_Peric_PhD_Thesis.pdf).
+- 2015 - [Yuwa  Chompoobutrgool](https://www.linkedin.com/in/yuwa-chompoobutrgool-7b977222/). Worked on Aspects  of Wide-Area Damping Control Design using Dominant Path Synchrophasor Signals. Download her [Lic. Thesis](https://ecse.rpi.edu/~vanfrl/documents/licenciatethesis/2012_Yuwa_LicThesis.pdf) and [PhD. Thesis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2015_Yuwa_PhD_Thesis.pdf).
+- 2012 - [Rujiroj Leelaruji
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf).
 
 ## MSc Students
-- 2017 - [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) worked on Semantic and Physical Modeling and Simulation of Multi-Domain Energy Systems: Gas Turbines and Electrical Power Networks. Publications in progress - Thesis available after publications are accepted.
-- 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on Automatic Resynchronization of an Islanded Power Network. Publications in progress - Thesis available after publications are accepted.
-- 2016 - [Narasimham Arava](https://www.linkedin.com/in/narasimham-arava-815aa535/) worked on Voltage Stability Assessment of Power Systems by Decision Tree Classification and Preventive Control by Pre-Computing Secure Operating Conditions. Publications in progress - Thesis available after publications are accepted.
-- 2016 - [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) worked on Power System Dynamic Equivalencing and Calibration using Modelica and RaPId. Publications in progress - Thesis available after publications are accepted.
+- 2017 - [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) worked on Semantic and Physical Modeling and Simulation of Multi-Domain Energy Systems: Gas Turbines and Electrical Power Networks, [sample paper](https://github.com/ALSETLab/2018_AmericanModelicaConf_PowerGrid_plus_PowerSystems).
+- 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on Automatic Resynchronization of an Islanded Power Network, [sample paper](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding).
+- 2016 - [Narasimham Arava](https://www.linkedin.com/in/narasimham-arava-815aa535/) worked on Voltage Stability Assessment of Power Systems by Decision Tree Classification and Preventive Control by Pre-Computing Secure Operating Conditions, [sample paper](https://ieeexplore.ieee.org/document/8424405).
+- 2016 - [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) worked on Power System Dynamic Equivalencing and Calibration using Modelica and RaPId, [sample paper](https://www.sciencedirect.com/science/article/pii/S2352340917300409).
 - 2016 - [Narender Singh](https://www.linkedin.com/in/narender-singh-76aa338a/) worked on [Feeder Dynamic Rating Application for Active Distribution Networks using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2016_Narender_MSc_Thesis.pdf).
 - 2016 - [Albane Schwob](https://www.linkedin.com/in/albane-schwob-3bb78393/) worked on the [Analysis of load models used in black-start studies](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2016_Albane_MScThesis.pdf).
 - 2015 - [Seyed Reza Firouzi](https://www.linkedin.com/in/reza-firouzi/) worked on [Design, Implementation and Validation of an IED 619850-90-5 Gateway for IEEE C37.118.2 Synchrophasor Data Transfer](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2015_Seyed_Reza%20Firouzi_MSc%20thesis%20report.pdf).
