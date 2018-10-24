@@ -13,8 +13,8 @@ redirect_from:
 
 ## Important Note to Students from Embargoed and Sanctioned Countries
   - ** Note: ** Check if you are in one of the Embargoed and Sanctioned Countries [here](https://www.export.pitt.edu/embargoed-and-sanctioned-countries), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/).
-  - As of Fall 2018, the following countries are in the embargoed list: Crimea - Region of Ukraine, Cuba, Iran, North Korea, Sudan, and Syria.
-  - Students from Iran, please pay particular notice, as I receive regular emails regarding admissions.
+  - As of Fall 2018, the following countries are in the embargoed list: Crimea - Region of Ukraine, Cuba, ** Iran **, North Korea, Sudan, and Syria.
+  - Students from ** Iran ** or holding an Iranian passport, please pay particular notice, you are in this list of countries. It is most likely that you will not get admission. Please don't email me to see if I have positions, as I receive regular emails regarding admissions.
 
   - As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. *** This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries. *** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will grant you admission or visit permission.
 
