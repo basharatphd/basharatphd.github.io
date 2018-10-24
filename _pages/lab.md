@@ -100,7 +100,6 @@ grants.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>
 - Check’s or money orders payable to Rensselaer Polytechnic Institute, declared as a "Restricted Gift" with a letter stating:
   - Subject: Restricted Gift to Prof. Vanfretti to be Administered by the ECSE Department at RPI.
   - *** Your name / company ***'s policy/preference is that the funds associated with this gift will not be used to cover institutional indirect costs such as overheads. This gift is being made with the understanding that they will be utilized only to finance direct costs associated with Prof. Vanfretti's research efforts. Costs may include, but are not limited to, travel expenses, materials and equipment, software licenses, etc.

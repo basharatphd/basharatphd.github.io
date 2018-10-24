@@ -100,8 +100,8 @@ redirect_from:
 - 2017 - Gustav Holm worked on [Automated Model Transformation for Cyber- Physical Power System Models](https://ecse.rpi.edu/~vanfrl/documents/bscreports/2017_Gustav_BSc_Report.pdf). Supervised together with [Francisco Gomez Lopez](https://www.linkedin.com/in/gomezlopez/) as part of the [OpenCPS.eu](https://opencps.eu) project.
 - 2011 - [Kim Weyrich](https://www.linkedin.com/in/kim-weyrich-03738b84/) worked on [Real-Time Implementation of an Automatic Voltage Stabilizer for HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/bscreports/).
 
-## While you are here, take the chance to ...
-- See how you can help! Click [here]().
+### While you are here, take the chance to ...
+- See how you can help! Click [here](https://alsetlab.github.io/donate/).
 - Support ALSETLab via PayPal!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -110,4 +110,3 @@ redirect_from:
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>

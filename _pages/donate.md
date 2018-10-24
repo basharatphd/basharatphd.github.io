@@ -25,7 +25,6 @@ You can support ALSETLab through in-cash or other kind of donations (e.g. equipm
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>
   - GoFundMe: [click here](https://www.gofundme.com/alsetlab039s-research?teamInvite=34Pi9rSD1jAFhXQmUPJoDjFt6mwP4bqkIGo6m6lQ9iAMX674ee8KyepRBeZ7sMPe)
   - Check’s or money orders payable to Rensselaer Polytechnic Institute, declared as a "Restricted Gift" with a letter stating:
     - Subject: Restricted Gift to Prof. Vanfretti to be Administered by the ECSE Department at RPI.

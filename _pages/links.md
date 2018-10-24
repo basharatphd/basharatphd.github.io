@@ -63,8 +63,8 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 
 ... more to come!
 
-## While you are here, take the chance to ...
-- See how you can help! Click [here]().
+### While you are here, take the chance to ...
+- See how you can help! Click [here](https://alsetlab.github.io/donate/).
 - Support ALSETLab via PayPal!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -73,4 +73,3 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>

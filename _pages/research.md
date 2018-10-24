@@ -72,8 +72,8 @@ The Top Three Past Projects:
 - The [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) project developed a substation automation architecture, and we contributed with a synchrophasor protocol gateway and PMU for distribution networks.
 - The [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developed a dynamic security assessment software platform, mostly used in France.
 
-## While you are here, take the chance to ...
-- See how you can help! Click [here]().
+### While you are here, take the chance to ...
+- See how you can help! Click [here](https://alsetlab.github.io/donate/).
 - Support ALSETLab via PayPal!
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -82,4 +82,3 @@ The Top Three Past Projects:
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</br>
