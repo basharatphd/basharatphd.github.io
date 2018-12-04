@@ -18,23 +18,31 @@ These is my shortlist of the journals that I think are relevant. I only list Ope
 - MethodsX: [link](https://www.sciencedirect.com/science/journal/22150161)
 - IEEE Access: [link](http://ieeeaccess.ieee.org)
 
-# Where to find good researchers and their teams in my field?
+# Where to find good researchers and their teams in my research areas?
 This is a list of collaborators and/or people I admire... incomplete, and in no particular order.
 
-- [Prof. Federico Milano, UCD, Dublin](http://faraday1.ucd.ie) creator of PSAT and DOME.
-- [Dr. David Laverty, QUB, Belfast](http://www.qub.ac.uk/research-centres/EPIC/Profile/?name=david.laverty), leading the [OpenPMU](http://faraday1.ucd.ie) project.
-- [Prof. Mario Paolone, EPFL, Switzerland](https://people.epfl.ch/mario.paolone), leading the [DESL](https://desl-pwrs.epfl.ch).
-- [Dr. Barry Rawn, Brunel, London, UK](http://www.brunel.ac.uk/people/barry-rawn), personal website [here](http://www.barryrawn.info/academic/).
+### The Sys. Id. Crowd
+- [Prof. Xavier Bombois, École Centrale Lyon, France](https://www.ec-lyon.fr/en/contacts/xavier-bombois), works on System Identification and is also CNRS Research Director with Laboratoire Ampere.
+
+### The Modelica Crowd
 - [Prof. Peter Fritzon, Linköping Univ., Sweden](http://www.ida.liu.se/~petfr27/) leading the [OpenModelica](https://openmodelica.org) effort.
 - [Prof. Francesco Casella, Polimi, Italy](http://home.deib.polimi.it/casella/index.html), developer of the [ThermoPower](https://github.com/casella/ThermoPower) Modelica library and many other [cool things](https://github.com/casella).
 - [Dr. Dietmar Winkler, HSN, Norway](http://me.dwe.no), expert in all Modelica [things](https://github.com/dietmarw), and member of [OpenIPSL](http://openipsl.org)
 - [Dr. Michael Tiller](https://www.xogeny.com) Modelica-guru and modeling code-master at Xogeny! Inspiration engine for the software-peasants like myself.
+
+### The Power Systems Crowd
+- [Dr. David Laverty, QUB, Belfast](http://www.qub.ac.uk/research-centres/EPIC/Profile/?name=david.laverty), leading the [OpenPMU](http://faraday1.ucd.ie) project.
+- [Prof. Mario Paolone, EPFL, Switzerland](https://people.epfl.ch/mario.paolone), leading the [DESL](https://desl-pwrs.epfl.ch).
+- [Prof. Federico Milano, UCD, Dublin](http://faraday1.ucd.ie) creator of PSAT and DOME.
+- [Dr. Barry Rawn, CMU Africa, Rwanda](https://www.ece.cmu.edu/directory/bios/rawn-barry.html), personal website [here](http://www.barryrawn.info/academic/).
 - [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
 
 ... more to come!
 
 # Where to get a PMU? - Build one! OpenPMU Project
 - I have tried helping a bit my friend [Dr. David Laverty](http://www.qub.ac.uk/research-centres/EPIC/Profile/?name=david.laverty) in his great effort developing and open source software/hardware PMU device and ecosystem which you can find [here](https://sites.google.com/site/openpmu/).
+
+- The "legacy" OpenPMU version 1 is being documented and maintained at ALSETLab, [here](https://alsetlab.github.io/S3DK/docs/Code_Flow_Chart.html).
 
 # What tools you use in your research that are not made by yourself?
 ## Modelica and the FMI Standard
@@ -51,10 +59,10 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 - [MPCPy](https://github.com/lbl-srg/MPCPy) python-based open-source platform for model predictive control in buildings.
 
 
-### System Identification Tools
-- [RaPId Toolbox](https://github.com/ALSETLab/RaPId), MATLAB-based, unfortunately - this one we made with my students...
-- [DSI Toolbox](https://github.com/ftuffner/DSIToolbox) MATLAB-based, unfortunately.
-- [CONTSID Toolbox](http://www.contsid.cran.univ-lorraine.fr) MATLAB-based, unfortunately.
+## System Identification Tools
+- [RaPId Toolbox](https://github.com/ALSETLab/RaPId), MATLAB-based (unfortunately) - this one we made with my students...
+- [DSI Toolbox](https://github.com/ftuffner/DSIToolbox) MATLAB-based (unfortunately).
+- [CONTSID Toolbox](http://www.contsid.cran.univ-lorraine.fr) MATLAB-based (unfortunately).
 
 # What can I use to learn Modelica, Python, etc...
 ## Modelica Learning Resources
