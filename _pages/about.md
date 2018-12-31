@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "ALSETLab Home!"
-excerpt: "ALSETLab Home!"
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
