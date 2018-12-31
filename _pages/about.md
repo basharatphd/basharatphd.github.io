@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
+![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.svg "Flyer")
 
 
 ### About this Website
