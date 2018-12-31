@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.svg "Flyer")
-
+![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
+[Download Larger Version](https://alsetlab.github.io/images/ALSETLab-1pager.pdf)
 
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab (a research group and a laboratory) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
