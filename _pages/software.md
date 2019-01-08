@@ -15,14 +15,8 @@ Below you can find links to repositories for software, data and models that have
 
 # Curated Software Project Lists
 
-## System Identification Tools
-### RaPId
-[RaPId](https://github.com/ALSETLab/RaPId) RaPId (a recursive acronym for "Rapid Parameter Identification") utilizes different optimization and simulation technologies to provide a framework for model validation and calibration of any kind of dynamical systems, but specifically catered to power systems.
 
 ## Modeling and Simulation with Modelica
-
-## Model Transformation Tools
-- [CIM2MOD(elica)](https://github.com/ALSETLab/cim2modelica) is a CIM-2-Modelica Model Transformation Tool
 
 ## OpenIPSL - Modelica for Power Grid Simulation using the Phasor Modeling Construct
 ### The Library:
@@ -41,6 +35,13 @@ Below you can find links to repositories for software, data and models that have
   - An Active Distribution Network model for Opal-RT's and EMTP-RV (off-line) platforms can be found [here](https://github.com/ALSETLab/ADN-RT-EMTP-Model)
   - An IRIG-B Signal Generator for Real-Time Simulation can be found [here](https://github.com/ALSETLab/IRIG-B_for_RT)
   - More to come...
+
+## Model Transformation Tools
+  - [CIM2MOD(elica)](https://github.com/ALSETLab/cim2modelica) is a CIM-2-Modelica Model Transformation Tool
+
+## System Identification Tools
+### RaPId
+  - [RaPId](https://github.com/ALSETLab/RaPId) RaPId (a recursive acronym for "Rapid Parameter Identification") utilizes different optimization and simulation technologies to provide a framework for model validation and calibration of any kind of dynamical systems, but specifically catered to power systems.
 
 ## Synchrophasor / PMU Tools and Apps
 

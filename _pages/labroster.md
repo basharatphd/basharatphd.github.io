@@ -10,8 +10,8 @@ redirect_from:
 
 # Current Researchers and Students @ALSETLab
 
-## Researchers
-- [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) working on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab.
+## Senior Researchers
+- None, ;-(
 
 ## Post-Docs
 - None, ;-(
@@ -32,24 +32,25 @@ redirect_from:
 - [Katheryn Flynn](https://www.ecse.rpi.edu/news/grainger-scholars/2018-recipients) working on modeling and simulation of ensemble control of stratified water tanks for ancillary service provisioning in active distribution networks.
 
 ## Undergrads helping with research through the Undergraduate Research Program @RPI
-- 2018 Fall:  John Reed, Jordan E. Grey, Emmet Alexander Williamson, Megan Twiss, Justin R. Johnson, Daniel Napora.
+- 2018 Fall:  John Reed, Jordan E. Grey, Emmet Alexander Williamson, Megan Twiss, Justin R. Johnson, Daniel Napora, Katheryn Flynn.
 - 2018 Summer: John Reed, Jordan E. Grey, Emmet Alexander Williamson, Nathan Mascari, Seth W. Halpern.
 
 # Visitors
 
 - 2018: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
+- 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) from Alfred University, NY, worked on microgrid modeling using real-time simulators.
 
 # Other Current Students
 
-## Current Students that I Co-supervise @RPI
-- [Stavros Konstantinopoulos](https://www.linkedin.com/in/stavros-konstantinopoulos-1366a6113/) working on forced oscillation analysis. Co-supervised with [Prof. Joe H. Chow.](https://www.ecse.rpi.edu/~chowj/)
-
-## Current Students that I (co) supervise in other institutions
+## Current Students that I (co) supervise in other institutions:
 - [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
 
 ---
 
-# Former Students
+# Former Team Members
+
+## Senior Researchers
+  - Dr. Hossein Hooshyar, worked on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab. Next stop: [EPRI](https://www.epri.com/#/?lang=en-US).
 
 ## Post-Docs
   - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html) project developing [TRISTAN](https://github.com/ALSETLab/TRISTAN).
