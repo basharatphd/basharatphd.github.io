@@ -7,6 +7,10 @@ author_profile: true
 
 List of Publications:
 
+- Here is my Google Doc, a "living" document with self-compiled list of publications: [link](https://docs.google.com/document/d/1ez02sR4cy6iYLs9GYb5zmpRQGEMCD2KV2b54JQH5fF0/edit?usp=sharing)
+
+Online Search Engines:
+
 - Google Scholar: [link](https://scholar.google.com/citations?user=_XI6Q6UAAAAJ&hl=en&oi=ao)<br />
 - ScopusID: [link](https://www.scopus.com/authid/detail.uri?authorId=23029592800)<br />
 
