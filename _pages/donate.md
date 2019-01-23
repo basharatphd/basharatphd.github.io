@@ -16,11 +16,24 @@ Carrying out research is costly, research funds are normally gathered through fu
 
 Several of our projects or initiatives that have the potential to be transformative in nature and/or position RPI to be a leader in power grid research do not qualify for funding from traditional research grants. The normal cycle of obtaining funding is long and uncertain, which makes it difficult to carry out long term projects such as those you can see in our [Github](https://alsetlab.github.io/software/) repositories.
 
-You can support ALSETLab through in-cash or other kind of donations (e.g. equipment, software licenses or engineering services) to provide these efforts with the resources these novel and revolutionary ideas the opportunity to succeed.​ Contributions can be made through:
+You can support ALSETLab through in-cash or other kind of donations (e.g. equipment, software licenses or engineering services) to provide these efforts with the resources these novel and revolutionary ideas the opportunity to succeed.​
+
+Contributions can be made online or via check/money order as specified below:
+  - ***[Donate Online](https://securelb.imodules.com/s/1225/mobile/mobile.aspx?sid=1225&gid=1&pgid=6795&dids=.101&bledit=1&sort=1)*** , under "Selected Designations", please specify, "Prof. Luigi Vanfretti at the Electrical, Computer & Systems Engineering Department."
+
   - Check’s or money orders payable to Rensselaer Polytechnic Institute, declared as a "Restricted Gift" with a letter stating:
     - Subject: Restricted Gift to Prof. Vanfretti to be Administered by the ECSE Department at RPI.
-    - *** Your name / company ***'s policy/preference is that the funds associated with this gift will not be used to cover institutional indirect costs such as overheads. This gift is being made with the understanding that they will be utilized only to finance direct costs associated with Prof. Vanfretti's research efforts. Costs may include, but are not limited to, travel expenses, materials and equipment, software licenses, etc.
-    - To send your gift, please get in touch directly with me <luigi.vanfretti@gmail.com>; or if you prefer to do an anonymous donation please send a check or money order to the [ECSE department chair with the letter indicated above](https://ecse.rpi.edu/index.php/mike-wozny).
+    - Include in the body of the letter: *** Your name / company *** 's policy/preference is that the funds associated with this gift will not be used to cover institutional indirect costs such as overheads. This gift is being made with the understanding that they will be utilized only to finance direct costs associated with Prof. Vanfretti's research efforts. Costs may include, but are not limited to, travel expenses, materials and equipment, software licenses, etc.
+    - To send your gift, please get in touch directly with me <luigi.vanfretti@gmail.com>; or if you prefer to do an anonymous donation please send a check or money order to the following address:
+      > Rensselaer Polytechnic Institute
+      >
+      > Gifts Processing Center
+      >
+      > PO Box 3164
+      >
+      > Boston, MA  02241-3164
+      >
+      > U.S.A.
 
 Below, is a list of our generous donors, contributing to the development of our real-time hardware-in-the loop simulation platform for experimental testing, and our other research & education activities.
 
