@@ -72,7 +72,7 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
 
 * Global Network for Synchrophasor Solutions (GNSS) - Steering Committee Member: [link](http://gnssconsortium.org/people/steering-committee/)<br />
 
-## Technical Committee Memberships:
+## Technical Committee Leadership:
 - Modelica Conferences, as Technical Program Committee Member or other roles:
   - 13th International Modelica Conference, 2019 [link](https://modelica.org/events/modelica2019)
   - The American Modelica Conference 2018 [link](https://modelica.org/events/modelica2018Americas/program-committee/program-committee%202018%20US)
@@ -82,8 +82,10 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
 <br />
 
 - Other:<br />
+  - IEEE Industrial Electronics Society Conference. Program Committee Member:
+    - 2019 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems
+    - 2018 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems
   - The First IEEE International Conference on Smart Grid Synchronized Measurements and Analytics – SGSMA, Texas A&M University, College Station, Texas, USA, May 20-23, 2019 [link](http://sgsma.org/committees/)
-  - IEEE Industrial Electronics Society Conference. Program Committee Member: 2018 Workshop on Modeling and Simulation of Cyber-Physical Energy Systems
   - IEEE Power and Energy Society Conferences. Technical Program Committee Member: 2017 ISGT Latin America
 
   ### While you are here, take the chance to ...
