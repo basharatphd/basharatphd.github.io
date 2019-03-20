@@ -17,12 +17,12 @@ redirect_from:
 - None, ;(
 
 ## PhD Students
+- Since Spring 2019: [Sergio Andres Dorado](https://sites.google.com/view/sergiodorado) working on machine learning applications for power systems.
 - Since Fall 2018: [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) working on joint modeling and simulation of transmission and distribution networks, [sample paper](https://www.researchgate.net/publication/326073560_Modeling_and_simulation_of_a_hybrid_single-phasethree-phase_system_in_modelica).
 - Since Fall 2018: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on STATCOM model verification, validation and optimization using digital twins.
 - Since Fall 2017: [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - working on mission critical, time-sensitive and real-time synchrophasor technologies for distribution networks and microgrids.
 
 ## MSc Students
-- Since Spring 2019: [Sergio Andres Dorado](https://www.researchgate.net/profile/Sergio_Dorado-Rojas) working on machine learning applications for power systems.
 - Since Fall 2018: [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) working on control and protection modeling using finite state machines and other automata.
 
 ## Co-Terminal (BSc/MSc) Students
