@@ -88,7 +88,7 @@ Below you can find links to repositories for software, data and models that have
 ### PST, PST Coherency Toolbox and MatNet Programs Distribution
 - **Note**: Please DO NOT email me with questions regarding PST and other software, I do not longer provide support.
 - Power System Toolbox (PST), PST Coherency Toolbox, MatNetFlow and MatNetEig:
-  - To obtain the passwords to decompress the .zip files, file out the following form, the passwords are presented to you after you complete it: [click here](https://forms.gle/q4qrUYKMXUb7SiCS8)
+  - To obtain the passwords to decompress the .zip files, fill out the following form, the passwords are presented to you after you complete it: [click here](https://forms.gle/q4qrUYKMXUb7SiCS8)
   - To download the individual .zip files for the software, browse the directory and download the .zip files by [clicking here](https://ecse.rpi.edu/~vanfrl/documents/pst_etal/).
 
 
