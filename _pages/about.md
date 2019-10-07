@@ -28,7 +28,7 @@ He was with KTH Royal Institute of Technology, Stockholm, Sweden, as Assistant 2
 
 He joined Rensselaer Polytechnic Institute in August 2017, to continue to develop his research at ALSETLab.
 
-His research interests are in the area of synchrophasor technology applications; and cyber-physical power system modeling, simulation, stability and control.
+His research interests are in the area of cyber-physical system modeling, simulation, stability and control; with applications to power systems, power electronics and aerospace electrification.
 
 Here's a picture of Luigi:
 

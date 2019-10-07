@@ -20,7 +20,8 @@ USA
 * Locations @RPI <br />
 Office: JEC 6220 <br />
 ALSETLab-Maxwell: JEC 6119 <br />
-ALSETLab-Volta: 2327B ECSE, High Bay Area
+ALSETLab-Volta: 2327B ECSE, High Bay Area <br />
+Student Offices: JEC 7027, JEC 7303.
 
 ## Digital
 * Website: [ALSETLab.com](http://www.ALSETLab.com)
@@ -40,6 +41,7 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
 # Work Experience:
 * Academia:<br />
   - 08/2017 - to date: Associate Professor, ECSE Department, Rensselaer Polytechnic Institute of Technology.<br />
+
   - Previous Appointments:<br />
     - 12/2009 - 05/2010: Post Doctoral Research Associate, Rensselaer Polytechnic Institute of Technology.
 
@@ -47,6 +49,8 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
       - 05/2010 - 2013: Assistant Professor, Tenure Track.
       - 2012: Docent Title [(explanation in Wikipedia.)](https://en.wikipedia.org/wiki/Docent#Sweden)
       - 03/2013 - 08/2017: Associate Professor, Tenured.
+
+    - 06/2019 - 08/2019: Visiting Faculty, [King Abdullah University of Science and Technology, Thuwal, Kingdom of Saudi Arabia.](https://www.kaust.edu.sa/en) <br />
 
 * Professional:<br />
   - Special Advisor at Statnett SF, the Norwegian electrical power transmission system operator.<br />
@@ -64,7 +68,9 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
 
 ## Technical Groups Membership / Participation:
 
-* North American Modelica User's Group (NAMUG) - Member / Participant / Presenter: 2015 - 2017 [link](http://na.modelica-users.org)<br />
+* Modelica Association - Elected as member in 2018, more info [here](https://ecse.rpi.edu/index.php/news/luigi-vanfretti-elected-modelica-association)<br />
+
+* North American Modelica User's Group (NAMUG) - Board Member (2018 - current) / Participant and Presenter: 2015 - 2017 [link](http://na.modelica-users.org)<br />
 
 * Open Source Modelica Consortium (OSMC) - Individual Member:[link](https://openmodelica.org/home/consortium)<br />
 
@@ -74,6 +80,8 @@ ALSETLab-Volta: 2327B ECSE, High Bay Area
 
 ## Technical Committee Leadership:
 - Modelica Conferences, as Technical Program Committee Member or other roles:
+  - The Asian Modelica Conference 2020 [link](https://2020.asian.conference.modelica.org/)
+  - The American Modelica Conference 2020 [link](https://modelica.org/events/modelica2020Americas)
   - 13th International Modelica Conference, 2019 [link](https://modelica.org/events/modelica2019)
   - The American Modelica Conference 2018 [link](https://modelica.org/events/modelica2018Americas/program-committee/program-committee%202018%20US)
   - Japanese Modelica Conference 2018 [link](https://modelica.org/events/modelica2018japan/program-committee/japanese-modelica-conference-program-committee)

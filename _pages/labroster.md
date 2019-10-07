@@ -10,24 +10,25 @@ redirect_from:
 
 # Current Researchers and Students @ALSETLab
 
-## Senior Researchers
-- None, ;(
+## Research Scientist (i.e. Senior Researchers)
+- Since Summer 2019: [Dr. Hamed Nademi](https://www.linkedin.com/in/hamed-nademi-57161724/) working on electrified transport and microgrids.
+- Since Fall 2019: [Abhijit Khare](https://www.linkedin.com/in/abhijit-khare-98423310/) working on multi-domain modeling for fully electrified aircraft.
 
 ## Post-Docs
 - None, ;(
 
 ## PhD Students
+- Since Fall 2019: [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) working on multi-domain modeling and model validation for fully electrical aircraft and power grids.
+  - Previously URP and Co-Terminal MSc student during Spring 2018 - to Spring 2019: working on generator parameter identification and uncertainty quantification.
+- Since Fall 2019: [Pranav Man Shresta](https://meritpages.com/pranav) working on machine learning applications for power systems.
 - Since Spring 2019: [Sergio Andres Dorado](https://sites.google.com/view/sergiodorado) working on machine learning applications for power systems.
+- Since Fall 2018: [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) working on control and protection modeling using finite state machines and other automata.
 - Since Fall 2018: [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) working on joint modeling and simulation of transmission and distribution networks, [sample paper](https://www.researchgate.net/publication/326073560_Modeling_and_simulation_of_a_hybrid_single-phasethree-phase_system_in_modelica).
 - Since Fall 2018: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on STATCOM model verification, validation and optimization using digital twins.
 - Since Fall 2017: [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - working on mission critical, time-sensitive and real-time synchrophasor technologies for distribution networks and microgrids.
 
 ## MSc Students
-- Since Fall 2018: [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) working on control and protection modeling using finite state machines and other automata.
-
-## Co-Terminal (BSc/MSc) Students
-- Since Spring 2019: [Katheryn Flynn](https://www.ecse.rpi.edu/news/grainger-scholars/2018-recipients) working on modeling and simulation of ensemble control of stratified water tanks for ancillary service provisioning in active distribution networks.
-- Spring 2018 - to Spring 2019: [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) working on generator parameter identification and uncertainty quantification.
+- Since Fall 2019: Weiyi Xia working on electrified propulsion for aerial vehicles.
 
 ## Undergrads helping with research through RPI's Undergraduate Research Program
 - 2019 Spring: Jordan E. Grey, Emmet Alexander Williamson, Erik Lacourt, Taye Nembhard.
