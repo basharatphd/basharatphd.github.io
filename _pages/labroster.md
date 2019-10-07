@@ -36,7 +36,8 @@ redirect_from:
 - 2018 Summer: John Reed, Jordan E. Grey, Emmet Alexander Williamson, Nathan Mascari, Seth W. Halpern.
 
 # Visitors
-
+- 2019: [Dr. Tetiana Bogodorova](https://apps.ucu.edu.ua/en/personal/tetiana-bogodorova/) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
+- 2019: [Oleh Lukianykhin](https://www.linkedin.com/in/oleh-lukianykhin/?originalSubdomain=ua) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
 - 2018-2019: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
 - 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) MSc student from Alfred University, NY, worked on microgrid modeling using real-time simulators.
 
@@ -47,8 +48,6 @@ redirect_from:
 
 - [Jan Lavenius](https://www.linkedin.com/in/jan-lavenius-3a6a0595/) working assisted input and state estimation from PMU data [(sample paper)](https://ieeexplore.ieee.org/document/8481338), and many machine learning things.
 
-- [Tanushree Agarwal](https://www.researchgate.net/profile/Tanushree_Agarwal6) working on micro-grids and synchrophasors using TSN with [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
-
 ---
 
 # Former Team Members
@@ -57,14 +56,15 @@ redirect_from:
   - Dr. Hossein Hooshyar, worked on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab. Next stop: [EPRI](https://www.epri.com/#/?lang=en-US).
 
 ## Post-Docs
-  - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html). Next stop, [ZHAW Zurich University of Applied Sciences](https://www.zhaw.ch/en/about-us/person/segu/).
   - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) worked with me in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) on research related to PMU Applications for Distribution Networks. The resulting bench-mark model of and active distribution network for real-time simulation and testing is available on [Github](https://github.com/ALSETLab/ADN-RT-EMTP-Model). Next stop, [Electric Power Research Institute (EPRI)](http://epri.com).
+  - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html). Next stop, [ZHAW Zurich University of Applied Sciences](https://www.zhaw.ch/en/about-us/person/segu/).
   - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
 ## PhD Students
+- 2019 [Tanushree Agarwal](https://www.linkedin.com/in/tanushree-agarwal-86b57b15b/) worked on micro-grid monitoring using TSN. Main supervisor: [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html). Sample publications: [microgrid](https://digital-library.theiet.org/content/journals/10.1049/iet-cps.2018.5043) and [TSN-based PMU data transfer](https://ieeexplore.ieee.org/abstract/document/8823854).
 - 2019 - [Francisco Gomez Lopez](https://www.linkedin.com/in/gomezlopez/) worked on [CIM-Compliant Power System Dynamic Model-to-Model Transformation and Modelica Simulation](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2019_Francisco_PhD_Thesis.pdf), co-supervised by [Svein H. Olsen](https://www.linkedin.com/in/sveinolsen/). Next stop, software engineer at [Semantum Oy](https://www.semantum.fi).
 - 2018 - [Farhan Mahmood](https://www.linkedin.com/in/farhan-mahmood-a04a003b/) worked on [Synchrophasor based Steady State Model Synthesis of Active Distribution Networks](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2018_farhan_phdthesis.pdf). Next stop, [ABB HVDC](https://new.abb.com/systems/hvdc/).
-- 2018 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) working on [PMU-based State Estimation for Hybrid AC and DC Grids](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2018_WeiLi_PhD_Thesis.pdf)
+- 2018 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) worked on [PMU-based State Estimation for Hybrid AC and DC Grids](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2018_WeiLi_PhD_Thesis.pdf)
 - 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf). Next stop, [Ukranian Catholic University](https://apps.ucu.edu.ua/en/personal/tetiana-bogodorova/).
 - 2017 - [M. Shoib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [Synchrophasor Applications and their Vulnerability to Time Synchronization Impairment](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Almas_PhD_Thesis.pdf). Next stop, [ABB HVDC](https://new.abb.com/systems/hvdc/).
 - 2016 -[Vedran Peric](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A903639&dswid=-3135) worked on [Non-intrusive Methods for Mode Estimation in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2016_Peric_PhD_Thesis.pdf). Next stop, [GE Energy Consulting](https://www.geenergyconsulting.com).
