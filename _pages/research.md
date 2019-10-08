@@ -52,7 +52,7 @@ redirect_from:
   - Abstract: The current state of modeling and simulation technologies in the power industry results in a complex model management problem where models that only operate in specific tools need to be developed, maintained/updated, homogenized within that specific tool only. Such model management issues create not only modeling intractability and uncertainty, but also unnecessarily limit engineers from utilizing and exploiting to the fullest a large number of diverse and powerful simulation tools. Currently, the great majority of studies are done with a single software tool (PSS/E), and this fact creates barriers for the utilization and understanding provided by other analysis tools and methods. This project aims to survey, analyze, select and adopt methods and tools from computer science to enable model management using the latest advances in the field of model-driven software engineering (MDE). The developed methods and technologies can become the cornerstone of high-efficiency model management while at the same time providing model users with model views in multiple simulation platforms.
   - Additional Information: see the news release [here](https://www.nypa.gov/news/press-releases/2019/20190717-rensselaer).
 
-- (DeepGrid) Model Translations for Smart Grid Applications Study
+- (DeepGrid) Deep Learning for Resilient Grid Operation
   - Funded by NYSERDA through the Electric Power Transmission and Distribution (EPTD) High Performing Grid Program Program Opportunity Notice (PON) 3770.
   - RPI PI: Prof. Luigi Vanfretti
   - In collaboration with New York Power Authority, Advanced Grid Innovation Lab for Energy (AGILe), and managed by [Atena Darvishi](https://www.linkedin.com/in/atenad/).
