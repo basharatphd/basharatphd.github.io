@@ -27,7 +27,7 @@ Services are provided to institutions as well as individuals. Some of the compan
   - Opal-RT, Canada
   - SuperGrid Institute, France
 
-  Academia:
+- Academia:
   - KAUST University, Saudi Arabia
   - KTH Royal Institute of Technology, Sweden
 
