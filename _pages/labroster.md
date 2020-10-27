@@ -15,7 +15,7 @@ redirect_from:
 - Since Fall 2019: [Abhijit Khare](https://www.linkedin.com/in/abhijit-khare-98423310/) working on multi-domain modeling for fully electrified aircraft.
 
 ## Post-Docs
-- None, ;(
+- None, ;-(
 
 ## PhD Students
 - Since Fall 2019: [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) working on multi-domain modeling and model validation for fully electrical aircraft and power grids.

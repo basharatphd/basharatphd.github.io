@@ -59,7 +59,7 @@ Student Offices: JEC 7027, JEC 7303.
   - External Consultant.
     - 08/2016 - 07/2017: Scientific Advisor to Statnett SF, Research and Development Division.
     - 01/2011 - 03/2013: Scientific Advisor to Statnett SF, Research and Development Division.
-
+    - 2019-2020: Scientific Consultant to the Supergrid Institute, Lyon, France.
 
 
 # Current Synergistic Activities:
@@ -73,10 +73,6 @@ Student Offices: JEC 7027, JEC 7303.
 * North American Modelica User's Group (NAMUG) - Board Member (2018 - current) / Participant and Presenter: 2015 - 2017 [link](http://na.modelica-users.org)<br />
 
 * Open Source Modelica Consortium (OSMC) - Individual Member:[link](https://openmodelica.org/home/consortium)<br />
-
-* North American Synchrophasor Initiative: [https://www.naspi.org](https://www.naspi.org) - Co-Lead of the Distribution Systems Task Team (DiSTT):[link](https://www.naspi.org/distt)<br />
-
-* Global Network for Synchrophasor Solutions (GNSS) - Steering Committee Member: [link](http://gnssconsortium.org/people/steering-committee/)<br />
 
 ## Technical Committee Leadership:
 - Modelica Conferences, as Technical Program Committee Member or other roles:
@@ -98,3 +94,8 @@ Student Offices: JEC 7027, JEC 7303.
 
   ### While you are here, take the chance to ...
   - See how you can help! Click [here](https://alsetlab.github.io/donate/).
+
+## Past:
+* 2017-2019: North American Synchrophasor Initiative: [https://www.naspi.org](https://www.naspi.org) - Co-Lead of the Distribution Systems Task Team (DiSTT):[link](https://www.naspi.org/distt)<br />
+
+* 2017-2019: Global Network for Synchrophasor Solutions (GNSS) - Steering Committee Member: [link](http://gnssconsortium.org/people/steering-committee/)<br />

@@ -22,13 +22,13 @@ ALSETLab is the name of Luigi's research group and also the real-time hardware-i
 ``Note: although the acronym is more of an excuse for using the name of Nikola Tesla... read ALSET backwards!``
 
 ### About Luigi Vanfretti
-Luigi Vanfretti (SMIEEE'14) obtained the M.Sc. and Ph.D. degrees in electric power engineering at Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively.
+Luigi Vanfretti is an Associate Professor with the Department of Electrical, Computer, and Systems Engineering, at Rensselaer Polytechnic Institute, Troy, NY, the oldest technological university in the English speaking world. Since 2017, he has established the ALSET Lab, a real-time hardware-in-the-loop simulation facility for cyber-physical system experimentation and research.
 
-He was with KTH Royal Institute of Technology, Stockholm, Sweden, as Assistant 2010-2013), and Associate Professor (Tenured) and Docent (2013-2017/August); where he lead the SmarTS Lab and research group. He also worked at Statnett SF, the Norwegian electric power transmission system operator, as consultant (2011 - 2012), and Special Advisor in R&D (2013 - 2016).
+Luigi received the M.Sc. and Ph.D. degrees in electric power engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively. He was with the KTH Royal Institute of Technology, Stockholm, Sweden, as an Assistant, from 2010 to 2013, and an Associate Professor (Tenured), and a Docent, from August 2013 to August 2017, where he leads the SmarTS Lab and research group. He was also a Visiting Faculty at the King Abdullah University of Science and Technology in the summer of 2019, performing teaching and research on modeling and simulation technologies for cyber-physical systems.
 
-He joined Rensselaer Polytechnic Institute in August 2017, to continue to develop his research at ALSETLab.
+Luigi also carries out professional activities, working for Statnett SF, the Norwegian Electric Power Transmission System Operator, as a Consultant, from 2011 to 2012, and a Special Advisor in R&D, from 2013 to 2016. In addition, he has worked as a scientific consultant at the SuperGrid Institute in Lyon, France, working on system identification applications for electrical grids.
 
-His research interests are in the area of cyber-physical system modeling, simulation, stability and control; with applications to power systems, power electronics and aerospace electrification.
+Luigi’s interests include cyber-physical systems modeling, simulation, stability and control, synchrophasor applications in power systems, power electronics and electrified transportation, specially electrified aircraft.
 
 Here's a picture of Luigi:
 
