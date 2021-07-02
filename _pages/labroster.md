@@ -11,24 +11,28 @@ redirect_from:
 # Current Researchers and Students @ALSETLab
 
 ## Research Scientist (i.e. Senior Researchers)
-- Since Summer 2019: [Dr. Hamed Nademi](https://www.linkedin.com/in/hamed-nademi-57161724/) working on electrified transport and microgrids.
+- Since Spring 2020: [Dr. Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-ph-d-20711763/) working on machine-learning applications and multi-domain modeling for energy systems.
 - Since Fall 2019: [Abhijit Khare](https://www.linkedin.com/in/abhijit-khare-98423310/) working on multi-domain modeling for fully electrified aircraft.
 
 ## Post-Docs
 - None, ;-(
 
 ## PhD Students
+- Starting Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on multi-domain modeling for grid-interactive district energy systems.
+- Starting Fall 2021: [Hayleigh C. Sanders](https://www.linkedin.com/in/hayleigh-sanders-615b66130/) working on grid-edge machine learning embedded systems for monitoring, control and protection.
+- Starting Fall 2021: [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) on multi-domain modeling for grid-interactive district energy systems.
+- Since Summer 2021: [Eric Segerstrom](https://everydaymatters.rpi.edu/composing-a-passion-for-engineering-eric-segerstrom/) working on synchrophasor analytics.
+  - Previously URP student from Summer 2020 to Spring 2021: working on modeling and parameter estimation of the Quanser AERO aerospace experiment platform.
+- Since Spring 2019: [Fernando Fachini](https://www.linkedin.com/in/fernando-fachini-541399154/) working on multi-domain modeling for grid-interactive district energy systems.
 - Since Fall 2019: [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) working on multi-domain modeling and model validation for fully electrical aircraft and power grids.
   - Previously URP and Co-Terminal MSc student during Spring 2018 - to Spring 2019: working on generator parameter identification and uncertainty quantification.
-- Since Fall 2019: [Pranav Man Shresta](https://meritpages.com/pranav) working on machine learning applications for power systems.
-- Since Spring 2019: [Sergio Andres Dorado](https://sites.google.com/view/sergiodorado) working on machine learning applications for power systems.
-- Since Fall 2018: [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) working on control and protection modeling using finite state machines and other automata.
-- Since Fall 2018: [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) working on joint modeling and simulation of transmission and distribution networks, [sample paper](https://www.researchgate.net/publication/326073560_Modeling_and_simulation_of_a_hybrid_single-phasethree-phase_system_in_modelica).
+- Since Spring 2019: [Sergio Andres Dorado](https://www.linkedin.com/in/sergio-a-dorado-rojas-3b0421114/) working on machine learning applications for power systems.
+- Since Fall 2018: [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) working on joint modeling and simulation of multi-time-scale transmission and distribution networks.
 - Since Fall 2018: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on STATCOM model verification, validation and optimization using digital twins.
 - Since Fall 2017: [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - working on mission critical, time-sensitive and real-time synchrophasor technologies for distribution networks and microgrids.
 
 ## MSc Students
-- Since Fall 2019: Weiyi Xia working on electrified propulsion for aerial vehicles.
+- Since Summer 2020: [Hayleigh Sanders](https://www.linkedin.com/in/hayleigh-sanders-615b66130/).
 
 ## Undergrads helping with research through RPI's Undergraduate Research Program
 - 2019 Spring: Jordan E. Grey, Emmet Alexander Williamson, Erik Lacourt, Taye Nembhard.
@@ -41,11 +45,14 @@ redirect_from:
 - 2018-2019: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
 - 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) MSc student from Alfred University, NY, worked on microgrid modeling using real-time simulators.
 
-# Other Current Students
+# Other Current Students and Researchers outside of RPI
+## Current Researchers I (co) supervise and collaborate with at other institutions:
+
+- [Paul Verrax](https://www.linkedin.com/in/paul-verrax-1611b7a6/) is working on system identification for power system applications at [SuperGrid Institute](https://www.supergrid-institute.com/). Co-supervised with Dr. [Abdelkrim Benchaib](https://www.linkedin.com/in/abdelkrim-benchaib-12987a32/)
+
 ## Current Students that I (co) supervise in other institutions:
-
+- [Gianni Bakhos](https://www.linkedin.com/in/gianni-bakhos-24723770/) is working on stability and control of AC/DC grids at [SuperGrid Institute](https://www.supergrid-institute.com/). Co-supervised with Prof. [Seddik Bacha](https://www.linkedin.com/in/seddik-bacha-23b436145/) of [Grenoble University](https://www.linkedin.com/school/universit%C3%A9-grenoble-alpes/) and Dr. [Abdelkrim Benchaib](https://www.linkedin.com/in/abdelkrim-benchaib-12987a32/).
 - [Maxime Baudette](https://www.linkedin.com/in/maxime-baudette-a1944125/) working on Synchrophasor-Based Model Validation,Calibration and Control Optimization of Power Networks, former main developer of the [OpeinIPSL.org](http://openipsl.org), among many many [other things...](https://github.com/maximebaudette). Software Engineering Associate at the [Energy Technologies Area](https://eta.lbl.gov) of [Lawrence Berkley National Lab](https://www.lbl.gov).
-
 - [Jan Lavenius](https://www.linkedin.com/in/jan-lavenius-3a6a0595/) working assisted input and state estimation from PMU data [(sample paper)](https://ieeexplore.ieee.org/document/8481338), and many machine learning things.
 
 ---
@@ -53,10 +60,13 @@ redirect_from:
 # Former Team Members
 
 ## Senior Researchers
-  - Dr. Hossein Hooshyar, worked on developing a time-sensitive real-time simulator-based synchrophasor lab., aka @ALSETLab. Next stop: [EPRI](https://www.epri.com/#/?lang=en-US).
+- [Dr. Sjoerd Boersma](https://www.linkedin.com/in/sjoerd-boersma-3610bb94/) worked on system identification of HVDC control at [SuperGrid Institute](https://www.supergrid-institute.com/). Co-supervised with Prof. [Prof. Xavier Bombois](https://www.ec-lyon.fr/en/contacts/xavier-bombois) of [EC Lyon](https://www.ec-lyon.fr/en/contacts/xavier-bombois) and with Dr. [Abdelkrim Benchaib](https://www.linkedin.com/in/abdelkrim-benchaib-12987a32/).
+- [Dr. Hamed Nademi](https://www.nmepscor.org/news/five-new-faculty-join-nm-smart-grid-center-team) worked in the NASA-funded CHEETA project on aircraft electrification and vehicle charging solutions while at RPI.
+- [Dr. Hossein Hooshyar](https://www.linkedin.com/in/hossein-hooshyar-39b4491a1), worked on developing a time-sensitive real-time simulator-based synchrophasor lab., aka [ALSETLab](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP172_ALSET_PESGM2020_V2.pdf) while at RPI. Next stop: [EPRI](https://www.epri.com/#/?lang=en-US).
 
 ## Post-Docs
-  - [Dr. Hossein Hooshyar](http://homepages.rpi.edu/~hooshh/) worked with me in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) on research related to PMU Applications for Distribution Networks. The resulting bench-mark model of and active distribution network for real-time simulation and testing is available on [Github](https://github.com/ALSETLab/ADN-RT-EMTP-Model). Next stop, [Electric Power Research Institute (EPRI)](http://epri.com).
+
+  - [Dr. Hossein Hooshyar](https://www.linkedin.com/in/hossein-hooshyar-39b4491a1) worked in the [FP7 IDE4L project](http://cordis.europa.eu/result/rcn/196576_en.html) on research related to PMU Applications for Distribution Networks while in KTH.
   - [Dr. Rafael Segundo](https://www.linkedin.com/in/rafael-segundo-1691702b/) worked with me in the [FP7 iTesla](http://cordis.europa.eu/project/rcn/101320_en.html). Next stop, [ZHAW Zurich University of Applied Sciences](https://www.zhaw.ch/en/about-us/person/segu/).
   - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
@@ -66,7 +76,7 @@ redirect_from:
   - [In memoriam, Rest in Peace, 2019/09/21](https://ecse.rpi.edu/~vanfrl/documents/other/2019_10_10_FranciscoJoseLopezGomez_In-Memoriam.pdf?fbclid=IwAR21ZQ_99_2G6A6dcK-Qhiwz381VW72_y8r4j2AHtxKTgQnipWy46HEWZ5Q)
 - 2018 - [Farhan Mahmood](https://www.linkedin.com/in/farhan-mahmood-a04a003b/) worked on [Synchrophasor based Steady State Model Synthesis of Active Distribution Networks](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2018_farhan_phdthesis.pdf). Next stop, [ABB HVDC](https://new.abb.com/systems/hvdc/).
 - 2018 - [Wei Li](https://www.linkedin.com/in/wei-li-13410129/) worked on [PMU-based State Estimation for Hybrid AC and DC Grids](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2018_WeiLi_PhD_Thesis.pdf)
-- 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf). Next stop, [Ukranian Catholic University](https://apps.ucu.edu.ua/en/personal/tetiana-bogodorova/).
+- 2017 - [Tetiana Bogodorova](https://www.linkedin.com/in/tetiana-bogodorova-20711763/) worked on [Modeling, Model Validation and Uncertainty Identification for Power System Analysis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Bogodorova_PhD_Thesis.pdf). Next stop, Ukranian Catholic University.
 - 2017 - [M. Shoib Almas](https://www.linkedin.com/in/muhammadsalmas/) worked on [Synchrophasor Applications and their Vulnerability to Time Synchronization Impairment](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2017_Almas_PhD_Thesis.pdf). Next stop, [ABB HVDC](https://new.abb.com/systems/hvdc/).
 - 2016 -[Vedran Peric](http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A903639&dswid=-3135) worked on [Non-intrusive Methods for Mode Estimation in Power Systems using Synchrophasors](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2016_Peric_PhD_Thesis.pdf). Next stop, [GE Energy Consulting](https://www.geenergyconsulting.com).
 - 2015 - [Yuwa  Chompoobutrgool](https://www.linkedin.com/in/yuwa-chompoobutrgool-7b977222/). Worked on Aspects  of Wide-Area Damping Control Design using Dominant Path Synchrophasor Signals. Download her [Lic. Thesis](https://ecse.rpi.edu/~vanfrl/documents/licenciatethesis/2012_Yuwa_LicThesis.pdf) and [PhD. Thesis](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2015_Yuwa_PhD_Thesis.pdf). Next stop, [ENERCON](https://www.enercon.de/home/).
@@ -74,6 +84,10 @@ redirect_from:
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf). Nex stop, [Bombardier](https://www.bombardier.com/en/home.html).
 
 ## MSc Students
+- 2021 - [Kunj Shah](https://www.linkedin.com/in/kunjshah1/) worked on regenerative breaking systems for hybrid vehicles.
+- 2020 - [Sergio Andres Dorado](https://sites.google.com/view/sergiodorado) working on machine learning applications for power systems, [sample paper](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP178_SDMCFLV_SSAwML.pdf).
+- 2020 - [Manuel Navarro Catalan](https://www.linkedin.com/in/manuel-navarro-catalan/) worked on continuous integration and regression testing workflows for power system modeling libraries.
+- 2020 - [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) worked on joint modeling and simulation of transmission and distribution networks, [sample paper](https://www.researchgate.net/publication/326073560_Modeling_and_simulation_of_a_hybrid_single-phasethree-phase_system_in_modelica).
 - 2018 - [Marcelo de Fernandes Castro](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) worked on [Modeling and Simulation of Integrated Transmission and Distribution Systems to Assess the Impacts of Distributed Energy Resources](https://ecse.rpi.edu/~vanfrl/documents/mscthesis/2018_Marcelo_Thesis.pdf), I was his co-supervisor, together with [Prof. Janaína Gonçalves de Oliverira](https://www.linkedin.com/in/jana%C3%ADna-gonçalves-de-oliveira-54a9309/?originalSubdomain=br).
 - 2017 - [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) worked on Semantic and Physical Modeling and Simulation of Multi-Domain Energy Systems: Gas Turbines and Electrical Power Networks, [sample paper](https://github.com/ALSETLab/2018_AmericanModelicaConf_PowerGrid_plus_PowerSystems).
 - 2017 - [Biswarup Mukherjee](https://www.linkedin.com/in/biswarup-mukherjee-41533311b/) worked on Automatic Resynchronization of an Islanded Power Network, [sample paper](https://github.com/ALSETLab/2018_AmericanModelicaConf_PMUBasedIslanding).
