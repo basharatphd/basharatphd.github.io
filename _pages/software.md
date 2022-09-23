@@ -82,7 +82,7 @@ These are no longer maintained or actively developed, mostly because of the lack
   - Build documentation, [here](https://alsetlab.github.io/S3DK/docs/Stronggrid.html)
 
 ## FluxPMU - OpenPMU version 1 (legacy)
-- Maker's guide and documentation on the LabVIEW Software, [here]([https://alsetlab.github.io/S3DK/docs/Code_Flow_Chart.html](https://github.com/ALSETLab/FluxPMU))
+- Maker's guide and documentation on the LabVIEW Software, [here](https://github.com/ALSETLab/FluxPMU)
 
 # Other Legacy Projects:
 
