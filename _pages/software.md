@@ -43,7 +43,9 @@ Below you can find links to repositories for software, data and models that have
 ### RaPId
   - [RaPId](https://github.com/ALSETLab/RaPId) RaPId (a recursive acronym for "Rapid Parameter Identification") utilizes different optimization and simulation technologies to provide a framework for model validation and calibration of any kind of dynamical systems, but specifically catered to power systems.
 
-## Synchrophasor / PMU Tools and Apps
+## Legacy Tools - Synchrophasor / PMU Tools and Apps
+
+These are no longer maintained or actively developed, mostly because of the lack of funding.
 
 ## User Tools:
 - [S3DK](https://alsetlab.github.io/S3DK/): A library for PMU App. Development under LabVIEW
@@ -79,18 +81,13 @@ Below you can find links to repositories for software, data and models that have
   - Online documentation for LabVIEW API, [here](https://alsetlab.github.io/S3DK/docs/STRONGgrid_DLL_Overview.html)
   - Build documentation, [here](https://alsetlab.github.io/S3DK/docs/Stronggrid.html)
 
-## OpenPMU version 1 (legacy)
-- Documentation on the LabVIEW Software, [here](https://alsetlab.github.io/S3DK/docs/Code_Flow_Chart.html)
-- "Maker" Guide: coming soon.
+## FluxPMU - OpenPMU version 1 (legacy)
+- Maker's guide and documentation on the LabVIEW Software, [here]([https://alsetlab.github.io/S3DK/docs/Code_Flow_Chart.html](https://github.com/ALSETLab/FluxPMU))
 
-# Legacy Projects:
+# Other Legacy Projects:
 
 ### PST, PST Coherency Toolbox and MatNet Programs Distribution
-- **Note**: Please DO NOT email me with questions regarding PST and other software, I do not longer provide support.
-- Power System Toolbox (PST), PST Coherency Toolbox, MatNetFlow and MatNetEig:
-  - To obtain the passwords to decompress the .zip files, fill out the following form, the passwords are presented to you after you complete it: [click here](https://forms.gle/q4qrUYKMXUb7SiCS8)
-  - To download the individual .zip files for the software, browse the directory and download the .zip files by [clicking here](https://ecse.rpi.edu/~vanfrl/documents/pst_etal/).
-
+- **Note**: Please DO NOT email me with questions regarding PST and other software, I do not longer provide support nor distribute the software, ask [Prof. Joe Chow](https://sites.ecse.rpi.edu/~chowj/).
 
 ### While you are here, take the chance to ...
   - See how you can help! Click [here](https://alsetlab.github.io/donate/).
