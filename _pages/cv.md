@@ -21,14 +21,16 @@ USA
 Office: JEC 6220 <br />
 ALSETLab-Maxwell: JEC 6119 <br />
 ALSETLab-Volta: 2327B ECSE, High Bay Area <br />
-Student Offices: JEC 7027, JEC 7303.
+
+## Analog
+* Mobile: (518) 496 0196
 
 ## Digital
 * Website: [ALSETLab.com](http://www.ALSETLab.com)
 * GMAIL E-mail: <mailto:luigi.vanfretti@gmail.com>
+* Please don't send emails to my @rpi.edu address, your email might be blocked by the university servers.<br />
 
-## Analog
-* Mobile: (518) 496 0196
+
 
 # Abridged CV
 - Please see my LinkedIn profile [here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
