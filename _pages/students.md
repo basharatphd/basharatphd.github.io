@@ -25,8 +25,8 @@ redirect_from:
   - If you don't read the stuff below, and contact me anyway, I will reply to you asking read the text below! So, you might as well keep reading...
 
 ## Are you an undergrad or grad student at RPI?
-- If you are an ***undergraduate at RPI***, just get in touch with me to book a meeting! Send an email to luigi dot vanfretti at gmail dot com
-- If you are a graduate student at RPI, please first check with your faculty advisor!
+- If you are an ***undergraduate at RPI***, currently I am not taking in additional undergraduate students, please check back in Fall 2023 if I am taking student to work with my team.
+- If you are a graduate student at RPI, please first check with your faculty advisor if it is ok to meet me. 
 
 ## Are you at another university in the USA or outside the USA?
 * ***It is not necessary to contact me prior to application.***
@@ -34,10 +34,9 @@ redirect_from:
 * Indicate that you want to work with me in your documentation once you have fulfilled the requirements for admission.
 * Before you apply, ***please read*** the information below.
 
-
 ## About the Admission Process and Funding Support Schemes
 
-While I encourage you to apply, note that the admission to our program is subject to both the institute’s admission process, and the departmental selection, where faculty (like me) do not have the final word in admission. * I can only consider your case after you have gone through the admission process and provided that I have relevant funding to support you.*
+While I encourage you to apply, note that the admission to our program is subject to both the institute’s admission process, and the ECSE departmental selection, where faculty (like me) do not have major influence nor the final word in admission. ***I can only consider your case after you have gone through the admission process and provided that I have relevant funding to support you.***
 
 ### Funding Support for Graduate Studies:
 
@@ -89,7 +88,7 @@ Here's what you can do to prepare:
 ## Where the list of available available positions or scope of work you are looking for?
 Now that you have ***read the information above***, please find the available positions described [***here***](https://alsetlab.github.io/recruiting/).
 
-Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: "I applied to RPI's: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!". 
+Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: ***"I applied to RPI's: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!".*** 
 
 If you don't write this in the heading, I will just send you a standard reply directing you to this website.
 
