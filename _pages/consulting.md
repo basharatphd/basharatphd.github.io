@@ -32,7 +32,7 @@ Services are provided to institutions as well as individuals. Some of the compan
   - KAUST University, Saudi Arabia
   - TU Munich, Germany
 
-Enquiries for services can be made via email or telephone, see the [Contact Tab](./Contact).
+Enquiries for services can be made via email or telephone, [click here](https://alsetlab.github.io/cv/).
 
 ### While you are here, take the chance to ...
   - See how you can help! Click [here](https://alsetlab.github.io/donate/).
