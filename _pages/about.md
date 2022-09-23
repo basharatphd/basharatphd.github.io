@@ -22,7 +22,7 @@ ALSETLab is the name of Luigi's research group and also the real-time hardware-i
 ``Note: although the acronym is more of an excuse for using the name of Nikola Tesla... read ALSET backwards!``
 
 ### About Luigi Vanfretti
-Luigi Vanfretti (Senior Member, IEEE) received the M.Sc. and Ph.D. degrees in electric power engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively. He is a Full Professor at Rensselaer Polytechnic Institute, since July 2022, where he was a tenured Associate Professor from 2017-6/2022-6. At RPI, he leads research projects in his laboratory and with his research team, ALSETLab, in the domains of electrical power systems and aircraft electrification. 
+Luigi Vanfretti received the M.Sc. and Ph.D. degrees in electric power engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively. He is a Full Professor at Rensselaer Polytechnic Institute, since July 2022, where he was a tenured Associate Professor from 2017-6/2022-6. At RPI, he leads research projects in his laboratory and with his research team, ALSETLab, in the domains of electrical power systems and aircraft electrification. 
 
 Professor Vanfretti has held temporary posts in prestigious international institutions, in 2019 he was a Visiting Faculty at the King Abdullah University of Science and Technology, Thuwal, Saudi Arabia; and in 2022 he was a Visiting Professor at both the Laboratoire Ampère of the École Centrale de Lyon and the SuperGrid Institute, both located in Lyon, France.
 
