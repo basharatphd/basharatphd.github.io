@@ -7,7 +7,18 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## ALSETLab is also a Real-Time Simulation Hardware-In-the-Loop Facility!
+# ALSETLab is a set of Laboratory Facilities!
+- ALSETLab Maxwell: contains three types of test-benches for real-time hardware-in-the-loop and controller-in-the-loop experiments supported by real-time simulators from different vendors.
+![maxwell](https://ecse.rpi.edu/~vanfrl/documents/thelab/maxwell_red.png "ALSETLab Maxwell")
+
+- ALSETLab Volta: is a power hardware-in-the-loop facility for inverter functionality testing of 15 kW capacity.
+![volta](https://ecse.rpi.edu/~vanfrl/documents/thelab/volta.png "ALSETLab Volta")
+
+Below is a more detailed description of the test-bench that uses Opal-RT simulators, however, observe we also have Typhoon HIL simulators and a dSPACE SCALEXIO platform.
+
+A presentation of the lab platforms can be found [here](https://docs.google.com/presentation/d/1MNE_EfQC5XP10JcTPuwSA8qgoDPmWf08uzJDgy0oNcc/edit?usp=sharing).
+
+# ALSETLab Maxwell Test-bench using Opal-RT simulators
 ![labsmall](https://ecse.rpi.edu/~vanfrl/documents/thelab/01_overview_p2.png "Small Lab Picture")
 
 ## Information Flyers
