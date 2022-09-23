@@ -22,15 +22,19 @@ ALSETLab is the name of Luigi's research group and also the real-time hardware-i
 ``Note: although the acronym is more of an excuse for using the name of Nikola Tesla... read ALSET backwards!``
 
 ### About Luigi Vanfretti
-Luigi Vanfretti is an Associate Professor with the Department of Electrical, Computer, and Systems Engineering, at Rensselaer Polytechnic Institute, Troy, NY, the oldest technological university in the English speaking world. Since 2017, he has established the ALSET Lab, a real-time hardware-in-the-loop simulation facility for cyber-physical system experimentation and research.
+Luigi Vanfretti (Senior Member, IEEE) received the M.Sc. and Ph.D. degrees in electric power engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively. He is a Full Professor at Rensselaer Polytechnic Institute, since July 2022, where he was a tenured Associate Professor from 2017-6/2022-6. At RPI, he leads research projects in his laboratory and with his research team, ALSETLab, in the domains of electrical power systems and aircraft electrification. 
 
-Luigi received the M.Sc. and Ph.D. degrees in electric power engineering from the Rensselaer Polytechnic Institute, Troy, NY, USA, in 2007 and 2009, respectively. He was with the KTH Royal Institute of Technology, Stockholm, Sweden, as an Assistant, from 2010 to 2013, and an Associate Professor (Tenured), and a Docent, from August 2013 to August 2017, where he leads the SmarTS Lab and research group. He was also a Visiting Faculty at the King Abdullah University of Science and Technology in the summer of 2019, performing teaching and research on modeling and simulation technologies for cyber-physical systems.
+Professor Vanfretti has held temporary posts in prestigious international institutions, in 2019 he was a Visiting Faculty at the King Abdullah University of Science and Technology, Thuwal, Saudi Arabia; and in 2022 he was a Visiting Professor at both the Laboratoire Ampère of the École Centrale de Lyon and the SuperGrid Institute, both located in Lyon, France.
 
-Luigi also carries out professional activities, working for Statnett SF, the Norwegian Electric Power Transmission System Operator, as a Consultant, from 2011 to 2012, and a Special Advisor in R&D, from 2013 to 2016. In addition, he has worked as a scientific consultant at the SuperGrid Institute in Lyon, France, working on system identification applications for electrical grids.
+In addition to his academic duties, through Vanfretti Consulting LLC, Dr. Vanfretti serves as a consultant for utilities and research institutions, including Dominion Energy in VA, the SuperGrid Institute in Lyon, France, and CENACE (the power system operator of Ecuador), Quito, Ecuador, to name a few.
 
-Luigi’s interests include cyber-physical systems modeling, simulation, stability and control, synchrophasor applications in power systems, power electronics and electrified transportation, specially electrified aircraft.
+Prof. Vanfretti was an Assistant Professor,  Associate Professor (tenured) and a Docent with the KTH Royal Institute of Technology, Stockholm, Sweden, from 2010 to 2013 and from 2013 to 2017, respectively, where he led the SmarTS Lab (a research group). 
 
-Here's a picture of Luigi:
+He was with Statnett SF, the Norwegian transmission system operator, from 2013 to 2016, as a Special Advisor with the Research and Development Department and as a Consultant, from 2011 to 2012 and in 2017.
+
+His research interests are in “electrified systems,”' and include cyber-physical system (CPS) modeling, simulation, stability and control in the domains of power grid and electrified transportation, both vehicles and infrastructure. In addition, he performs research on synchrophasor technologies, both on technology development and data analytics, and is interested in the application of software technologies, signal processing, system identification and machine learning for design and operation analytics for CPS.
+
+Here's a (old) picture of Luigi:
 
 ![luigixsmall](https://alsetlab.github.io/images/luigi_small.jpg "Small Picture")
 
