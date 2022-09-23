@@ -12,11 +12,9 @@ redirect_from:
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
 ## Important Note to Students from Embargoed and Sanctioned Countries
-  - ** Note: ** Check if you are in one of the Embargoed and Sanctioned Countries [here](https://www.export.pitt.edu/embargoed-and-sanctioned-countries), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/).
-  - As of Fall 2018, the following countries are in the embargoed list: Crimea - Region of Ukraine, Cuba, ** Iran **, North Korea, Sudan, and Syria.
-  - Students from ** Iran ** or holding an Iranian passport, please pay particular notice, you are in this list of countries. It is most likely that you will not get admission. Please don't email me to see if I have positions, as I receive regular emails regarding admissions.
-
-  - As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. *** This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries. *** Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will grant you admission or visit permission.
+  - **Note:** Check if you are in one of the Embargoed and Sanctioned Countries [here](https://www.export.pitt.edu/embargoed-and-sanctioned-countries), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/).
+  - Students from **Iran** or holding an Iranian passport, please pay particular notice, you are in this list of countries. I don't want to disencourage you to apply, but applying means paying an application fee, and I don't want you to waste your money. This has happened in the past, a good student that I wanted to recruit applied and was denied admission, and he lost the money he spent in the application fee. If you decide to apply, do so knowing that coming from an embargoed country means that you will face more scrutiny and may not pass the checks that the Admissions office does, and there will be no way for you to recover your money from the application fee. Please don't email me to see if I have positions anyway, as I receive regular emails, I will re-direct you to this website as I have no influence on admissions or changing the decisions of the admission office.
+  - As a national research institution in the United States, Rensselaer’s activities are subject to restrictions by the U.S. government, including export-related restrictions. ***This makes it increasingly difficult for the Institute to accept students or visitors who are nationals of embargoed countries. Unfortunately, if you are from of those embargoed countries, it is unlikely that RPI will grant you admission or visit permission.***
 
 # About Joining my Team: ALSETLab
 
@@ -72,17 +70,15 @@ You are also expected to deliver at the same rate as other students under an RA.
 - Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/).
 - **IMPORTANT:** see the notes above regarding Sanctioned and Embargoed countries.
 
-### Test Scores: **Minimum Requirements**
-- GRE Scores - Verbal: 156, Quantitative: 146, Analytical: 4.0
+### Test Scores:
+- Ask the Admissions Office wether or not GRE Scores are required, if they are, as a guideline, the following are some scores you should aim to obtain. Verbal: 156, Quantitative: 146, Analytical: 4.0. I strongly recommend you take the GRE if it is no longer mandatory, it will make your application stand out (if the scores are good), as others might not report scores.
 
 - TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) - these are minimum thresholds.
 
-- *** Don't shoot for the minimum! *** The list above tells you the *** minimum *** scores for Institute-wide admission. Note that you are competing against applicants from everywhere in the world, and obviously, this means that your scores will be used as a basis for ranking you for admission. Don't shoot for the minimum, get as high scores as possible.
+- ***Don't shoot for the minimum!*** The list above gives you ***minimum*** scores that give an idea of the level expected for Institute-wide admission. Note that these are old numbers, I do not know what the current minimums are officially, but these are a good guess. Keep in mind that you are competing against applicants from everywhere in the world, and obviously, this means that your scores will be used as a basis for ranking you for admission (if required). Don't shoot for the minimum, get as high scores as possible.
 
 ### Study for the tests! Really!
-RPI has the score requirements above for our graduate program in Electrical Engineering. It is very difficult (not to say impossible) to admit a student for graduate studies if the scores are not met, specially the GRE/Quantitative score.
-
-Also, you should be aware that many other students will be applying, and good GRE scores is an easy way of differentiating yourself from other applicants.
+You should be aware that many other students will be applying, and good test scores is an easy way of differentiating yourself from other applicants.
 
 Before you do anything, ***and specially before taking the tests***, you should prepare very well to attain the marks suggested above.
 Here's what you can do to prepare:
@@ -91,9 +87,11 @@ Here's what you can do to prepare:
 3. Repeat steps 1. and 2. above.
 
 ## Where the list of available available positions or scope of work you are looking for?
-Now that you have ***read the information above***, please find the available positions described [***here***](/recruiting/).
+Now that you have ***read the information above***, please find the available positions described [***here***](https://alsetlab.github.io/recruiting/).
 
-Just to check that you read, start your email by writing in the subject line: "Tesla was the man!" or "Modelica for the win!" or "PMUs for the masses!".
+Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: "I applied to RPI's: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!". 
+
+If you don't write this in the heading, I will just send you a standard reply directing you to this website.
 
 ### While you are here, take the chance to ...
 - See how you can help! Click [here](https://alsetlab.github.io/donate/).
