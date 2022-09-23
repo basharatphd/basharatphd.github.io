@@ -29,10 +29,10 @@ Student Offices: JEC 7027, JEC 7303.
 
 ## Analog
 * Mobile: (518) 496 0196
-* Office: (518) 276 2378
-
 
 # Abridged CV
+- Please see my LinkedIn profile [here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
+- You can also see my faculty profile in RPI's webpage, [here](https://faculty.rpi.edu/luigi-vanfretti).
 
 # Education
 * Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
@@ -41,7 +41,9 @@ Student Offices: JEC 7027, JEC 7303.
 * Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2009. <br />
 * Post Doc., Rensselaer Polytechnic Institute, 2010. <br />
 
+
 # Work Experience:
+
 ## Academic:
 - 2022/7 – Current: Full Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
 - 2017 – 2022/6: Associate Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
@@ -51,6 +53,7 @@ Student Offices: JEC 7027, JEC 7303.
 - 2013 – 2017: (Tenured) Associate Professor, KTH Royal Institute of Technology, Sweden
 - 2012 – 2017: Docent, KTH Royal Institute of Technology, Sweden
 - 2010 – 2013: Assistant Professor, KTH Royal Institute of Technology, Sweden
+
 ## Professional:
 - 2020 – Current: Vanfretti Consulting LLC, Troy, NY, U.S.A. 
 - 2019-2021: Independent External Consultant to SuperGrid Institute, Lyon, France and Dominion Energy, VA, USA.
@@ -60,7 +63,7 @@ Student Offices: JEC 7027, JEC 7303.
 
 # Current Synergistic Activities:
 
-## OpenIPSL.org Project: 
+## OpenIPSL.org Project - A Modelica Library for Power Grid Simulation:
 See [http://openipsl.org](http://openipsl.org)
 
 ## Technical Groups Membership / Participation:
@@ -70,6 +73,7 @@ See [http://openipsl.org](http://openipsl.org)
 * North American Modelica User's Group (NAMUG) - Board Member (2018 - current) / Participant and Presenter: 2015 - 2017 [link](http://na.modelica-users.org)<br />
 
 * Open Source Modelica Consortium (OSMC) - Individual Member:[link](https://openmodelica.org/home/consortium)<br />
+
 
   ### While you are here, take the chance to ...
   - See how you can help! Click [here](https://alsetlab.github.io/donate/).
