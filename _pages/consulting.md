@@ -23,13 +23,14 @@ Consulting fees for the services above are negotiated on individual basis. Fee w
 Services are provided to institutions as well as individuals. Some of the companies to which consulting services have been provided to include:
 
 - Industry:
-  - Statnett SF, Norway
-  - Opal-RT, Canada
+  - Dominion Energy Virginia, USA
   - SuperGrid Institute, France
+  - Opal-RT, Canada
+  - CENACE, Quito, Ecuador
 
 - Academia:
   - KAUST University, Saudi Arabia
-  - KTH Royal Institute of Technology, Sweden
+  - TU Munich, Germany
 
 Enquiries for services can be made via email or telephone, see the [Contact Tab](./Contact).
 
