@@ -28,10 +28,7 @@ redirect_from:
 - Since Summer 2021: [Eric Segerstrom](https://everydaymatters.rpi.edu/composing-a-passion-for-engineering-eric-segerstrom/) working on power system modeling and synchrophasor data analysis.
 
 # Visitors
-- 2019: [Dr. Tetiana Bogodorova](https://apps.ucu.edu.ua/en/personal/tetiana-bogodorova/) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
-- 2019: [Oleh Lukianykhin](https://www.linkedin.com/in/oleh-lukianykhin/?originalSubdomain=ua) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
-- 2018-2019: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
-- 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) MSc student from Alfred University, NY, worked on microgrid modeling using real-time simulators.
+- None, ;-(
 
 # Other Current Students and Researchers outside of RPI
 ## Current Researchers I (co) supervise and collaborate with at other institutions:
@@ -46,6 +43,12 @@ redirect_from:
 ---
 
 # Former Team Members
+
+## Visitors
+- 2019: [Dr. Tetiana Bogodorova](https://apps.ucu.edu.ua/en/personal/tetiana-bogodorova/) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
+- 2019: [Oleh Lukianykhin](https://www.linkedin.com/in/oleh-lukianykhin/?originalSubdomain=ua) from the Faculty of Applied Sciences of the [Ukranian Catholic University]. Worked on [Reinforcement Learning using Modelica](https://arxiv.org/abs/1909.08604).
+- 2018-2019: [Ricardo Rincon Ballesteros](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001048228) from Universidad Nacional de Colombia (Bogota). Working on analysis of power system dynamics and resiliency using graph-based and dynamic network analysis methods.
+- 2018: [Behrouz Azimian](https://www.linkedin.com/in/behrouz-azimian-315060139/) MSc student from Alfred University, NY, worked on microgrid modeling using real-time simulators.
 
 ## Senior Researchers
 - [Dr. Abhijit Khare](https://www.linkedin.com/in/abhijit-khare-98423310/) worked on multi-domain modeling for fully electrified aircraft in the NASA-funded CHEETA project.
