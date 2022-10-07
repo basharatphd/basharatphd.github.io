@@ -88,7 +88,7 @@ Here's what you can do to prepare:
 ## Where the list of available available positions or scope of work you are looking for?
 Now that you have ***read the information above***, please find the available positions described [***here***](https://alsetlab.github.io/recruiting/).
 
-Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: ***"I applied to RPI's: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!".*** 
+Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: ***"Joining RPI ECSE Graduate Program: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!".*** 
 
 If you don't write this in the heading, I will just send you a standard reply directing you to this website.
 
