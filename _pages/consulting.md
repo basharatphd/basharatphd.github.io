@@ -23,14 +23,15 @@ Consulting fees for the services above are negotiated on individual basis. Fee w
 Services are provided to institutions as well as individuals. Some of the companies to which consulting services have been provided to include:
 
 - Industry:
-  - Dominion Energy Virginia, USA
-  - SuperGrid Institute, France
-  - Opal-RT, Canada
-  - CENACE, Quito, Ecuador
-
+  - [2022 - present] New York Power Authority, USA
+  - [2020 - present] Dominion Energy Virginia, USA
+  - [2019 - present] SuperGrid Institute, France
+  - [2021-2022] CENACE, Quito, Ecuador
+  - [2018] Opal-RT, Canada
+  -
 - Academia:
-  - KAUST University, Saudi Arabia
-  - TU Munich, Germany
+  - [2019] KAUST University, Saudi Arabia
+  - [2020, 2021] TU Munich, Germany
 
 Enquiries for services can be made via email or telephone, [click here](https://alsetlab.github.io/cv/).
 

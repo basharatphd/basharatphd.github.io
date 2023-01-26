@@ -11,10 +11,10 @@ redirect_from:
 ---
 # Research Areas
 
-I work in the several ``engineering domains'' including electrical power systems (power grid), electrified aircraft, combined energy systems (e.g. heat and power networks, power-to-X).
+I work in the several ``engineering domains'' including electrical power systems (power grid), electrified aircraft, and combined energy systems (e.g. heat and power networks, power-to-X).
 
 Where I am interested in applying:
-* Modeling and simulation using object-oriented equation-based formalisms via the Modelica language multi-domain, for example to model power systems or the electrical propulsion system of aircrats.
+* Modeling and simulation using object-oriented equation-based formalisms via the Modelica language, for multi-domain system integration, for example to model power systems or the electrical propulsion system of aircrafts.
 * Real-time simulation, hardware-in-the-loop simulation, controller hardware-in-the-loop simulation, power-hardware-in-the-loop simulation for testing of methods, software tools or technologies for control and protection.
 * System Identification Methods for measurement-based identification of cyber-physical power system models, monitoring technics and control systems.
 * Measurement technologies and analytics (PMU Applications).
