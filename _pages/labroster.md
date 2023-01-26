@@ -7,6 +7,10 @@ redirect_from:
   - /resume/
 ---
 {% include base_path %}
+### ***2023-01-26:*** Notice to Prospective Researchers and Students
+I have applied for a sabbatical leave. If approved, my plan is to be on sabbatical during Fall 2023, Spring 2024 and on a leave on Fall 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+
+Please do not email me with requests and questions about joining my research program, because I will not be at Rensselaer Polytechnic Institute during that period.
 
 # Current Researchers and Students @ALSETLab
 
@@ -17,15 +21,15 @@ redirect_from:
 - None, ;-(
 
 ## PhD Students
+- Since Spring 2023: Srijita Bhattacharjee, working on multi-domain modeling for grid-interactive district energy systems.
 - Since Spring 2022: [Pengxiang Huang](https://www.linkedin.com/in/pengxiang-huang-583573150/) working on VSC-based converters.
 - Since Spring 2022: [Hao Chang](https://www.linkedin.com/in/hao-chang-346b05156/) working on testing and identification of Inverter-based resources.
-- Since Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on multi-domain modeling for grid-interactive district energy systems.
-- Since Fall 2021: [Miguel Aguilera Chaves](https://www.linkedin.com/in/miguel-aguilera-451b8214a/) on multi-domain modeling for grid-interactive district energy systems.
 - Since Spring 2019: [Fernando Fachini](https://www.linkedin.com/in/fernando-fachini-541399154/) working on multi-domain modeling for grid-interactive district energy systems.
 - Since Fall 2018: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on model verification, validation and optimization.
 
 ## MSc Students
 - Since Summer 2021: [Eric Segerstrom](https://everydaymatters.rpi.edu/composing-a-passion-for-engineering-eric-segerstrom/) working on power system modeling and synchrophasor data analysis.
+- Since Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on multi-domain modeling for grid-interactive district energy systems.
 
 # Visitors
 - None, ;-(
@@ -62,7 +66,7 @@ redirect_from:
   - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
 ## PhD Students
-- 2022 - [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) worked on multi-domain modeling and identification for fully electrical aircraft and power grids. Sample paper [here](https://www.researchgate.net/publication/356640920_Multi-Domain_Modeling_and_Simulation_of_High_Temperature_Superconducting_Transmission_Lines_under_Short_Circuit_Fault_Conditions).
+- 2022 - [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) worked on [Modeling, system identification, and parameter estimation for electrified aircraft systems and hydroelectric power plants](https://dspace.rpi.edu/handle/20.500.13015/6331).
 - 2022 - [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) worked on joint modeling and simulation of multi-time-scale electric power systems (terrestrial and aircraft) using object-oriented equation-based languages (Modelica). Sample paper [here](https://www.researchgate.net/publication/360492834_Multi_Time-Scale_Modeling_of_a_STATCOM_and_Power_Grid_for_Stability_Studies_using_Modelica).
 - 2021 - [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - worked on [Synchrophasor-based monitoring, control, and protection for distributed energy resources](https://dspace.rpi.edu/handle/20.500.13015/6139).
 - 2019 - [Tanushree Agarwal](https://www.linkedin.com/in/tanushree-agarwal-86b57b15b/) worked on micro-grid monitoring using TSN. Main supervisor: [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html). Sample publications: [microgrid](https://digital-library.theiet.org/content/journals/10.1049/iet-cps.2018.5043) and [TSN-based PMU data transfer](https://ieeexplore.ieee.org/abstract/document/8823854).
