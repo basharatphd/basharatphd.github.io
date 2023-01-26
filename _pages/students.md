@@ -11,6 +11,11 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
+### ***2023-01-26:*** Notice to Prospective Researchers and Students
+I have applied for a sabbatical leave. If approved, my plan is to be on sabbatical during Fall 2023, Spring 2024 and on a leave on Fall 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+
+Please do not email me with requests and questions about joining my research program, because I will not be at Rensselaer Polytechnic Institute during that period.
+
 ## Important Note to Students from Embargoed and Sanctioned Countries
   - **Note:** Check if you are in one of the Embargoed and Sanctioned Countries [here](https://www.export.pitt.edu/embargoed-and-sanctioned-countries), if you are, please contact admissions office before applying, [here](http://admissions.rpi.edu/graduate/).
   - Students from **Iran** or holding an Iranian passport, please pay particular notice, you are in this list of countries. I don't want to disencourage you to apply, but applying means paying an application fee, and I don't want you to waste your money. This has happened in the past, a good student that I wanted to recruit applied and was denied admission, and he lost the money he spent in the application fee. If you decide to apply, do so knowing that coming from an embargoed country means that you will face more scrutiny and may not pass the checks that the Admissions office does, and there will be no way for you to recover your money from the application fee. Please don't email me to see if I have positions anyway, as I receive regular emails, I will re-direct you to this website as I have no influence on admissions or changing the decisions of the admission office.
@@ -26,7 +31,7 @@ redirect_from:
 
 ## Are you an undergrad or grad student at RPI?
 - If you are an ***undergraduate at RPI***, currently I am not taking in additional undergraduate students, please check back in Fall 2023 if I am taking student to work with my team.
-- If you are a graduate student at RPI, please first check with your faculty advisor if it is ok to meet me. 
+- If you are a graduate student at RPI, please first check with your faculty advisor if it is ok to meet me.
 
 ## Are you at another university in the USA or outside the USA?
 * ***It is not necessary to contact me prior to application.***
@@ -88,7 +93,7 @@ Here's what you can do to prepare:
 ## Where the list of available available positions or scope of work you are looking for?
 Now that you have ***read the information above***, please find the available positions described [***here***](https://alsetlab.github.io/recruiting/).
 
-Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: ***"Joining RPI ECSE Graduate Program: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!".*** 
+Just to check that you read, and after applying to RPI, you can contact me by sending me email to luigi dot vanfretti at gmail dot com and writing in the subject line: ***"Joining RPI ECSE Graduate Program: I immersed myself in the culture. Tasting the cuisine. But mostly building models in Modelica!".***
 
 If you don't write this in the heading, I will just send you a standard reply directing you to this website.
 
