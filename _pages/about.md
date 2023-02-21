@@ -11,8 +11,8 @@ redirect_from:
 ![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
 [Download Larger Version](https://alsetlab.github.io/images/ALSETLab-1pager.pdf)
 
-### ***2023-01-26:*** Notice to Prospective Researchers and Students
-I have applied for a sabbatical leave. If approved, my plan is to be on sabbatical during Fall 2023, Spring 2024 and on a leave on Fall 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+### ***2023-02-21:*** Notice to Prospective Researchers and Students
+I will be on sabbatical leave during Fall 2023 and Spring 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Fall 2024.
 
 Please do not email me with requests and questions about joining my research program, because I will not be at Rensselaer Polytechnic Institute during that period.
 
