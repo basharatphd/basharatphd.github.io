@@ -22,14 +22,11 @@ Please do not email me with requests and questions about joining my research pro
 
 ## PhD Students
 - Since Spring 2023: Srijita Bhattacharjee, working on multi-domain modeling for grid-interactive district energy systems.
-- Since Spring 2022: [Pengxiang Huang](https://www.linkedin.com/in/pengxiang-huang-583573150/) working on VSC-based converters.
 - Since Spring 2022: [Hao Chang](https://www.linkedin.com/in/hao-chang-346b05156/) working on testing and identification of Inverter-based resources.
 - Since Spring 2019: [Fernando Fachini](https://www.linkedin.com/in/fernando-fachini-541399154/) working on multi-domain modeling for grid-interactive district energy systems.
-- Since Fall 2018: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) working on model verification, validation and optimization.
 
 ## MSc Students
-- Since Summer 2021: [Eric Segerstrom](https://everydaymatters.rpi.edu/composing-a-passion-for-engineering-eric-segerstrom/) working on power system modeling and synchrophasor data analysis.
-- Since Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on multi-domain modeling for grid-interactive district energy systems.
+- Since Fall 2021: [Md. Shamimul Islam](https://www.linkedin.com/in/mdshamimulislam/) working on power system modeling.
 
 # Visitors
 - None, ;-(
@@ -66,8 +63,10 @@ Please do not email me with requests and questions about joining my research pro
   - [Dr. Iyad Al-Khatib](https://www.linkedin.com/in/iyad-al-khatib-4096075/) worked developing a real-time data mediator for synchrophasors, called [BabelFish](http://ieeexplore.ieee.org/document/7131910/), available on [Github](https://github.com/ALSETLab/BabelFish).
 
 ## PhD Students
+- 2023: [Giuseppe Laera](https://www.linkedin.com/in/giuseppe-laera-52455928/) worked on "Power Systems Modeling, Calibration and Cloud Applications using the Modelica Language and FMI Standard", thesis to be uploaded in the future.
+- 2023 - [Pengxiang Huang](https://www.linkedin.com/in/pengxiang-huang-583573150/) worked on "Impedance Reshaping of Modular Multilevel Converters for Stable and Safe Power System Operation", thesis to be uploaded in the future. 
 - 2022 - [Meaghan Podlaski](https://www.linkedin.com/in/meaghan-podlaski-95552310b/) worked on [Modeling, system identification, and parameter estimation for electrified aircraft systems and hydroelectric power plants](https://dspace.rpi.edu/handle/20.500.13015/6331).
-- 2022 - [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) worked on joint modeling and simulation of multi-time-scale electric power systems (terrestrial and aircraft) using object-oriented equation-based languages (Modelica). Sample paper [here](https://www.researchgate.net/publication/360492834_Multi_Time-Scale_Modeling_of_a_STATCOM_and_Power_Grid_for_Stability_Studies_using_Modelica).
+- 2022 - [Marcelo de Castro Fernandes](https://www.linkedin.com/in/marcelo-de-castro-615570b3/) worked on "Equation-based object-oriented modeling, simulation, analysis and control of electric power systems".
 - 2021 - [Prottay Adhikari](https://www.linkedin.com/in/prottay-adhikari-09115344/) - worked on [Synchrophasor-based monitoring, control, and protection for distributed energy resources](https://dspace.rpi.edu/handle/20.500.13015/6139).
 - 2019 - [Tanushree Agarwal](https://www.linkedin.com/in/tanushree-agarwal-86b57b15b/) worked on micro-grid monitoring using TSN. Main supervisor: [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html). Sample publications: [microgrid](https://digital-library.theiet.org/content/journals/10.1049/iet-cps.2018.5043) and [TSN-based PMU data transfer](https://ieeexplore.ieee.org/abstract/document/8823854).
 - 2019 - [Francisco Gomez Lopez](https://www.linkedin.com/in/gomezlopez/) worked on [CIM-Compliant Power System Dynamic Model-to-Model Transformation and Modelica Simulation](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2019_Francisco_PhD_Thesis.pdf), co-supervised by [Svein H. Olsen](https://www.linkedin.com/in/sveinolsen/). Next stop, software engineer at [Semantum Oy](https://www.semantum.fi).
@@ -82,6 +81,7 @@ Please do not email me with requests and questions about joining my research pro
 ](https://www.linkedin.com/in/rujiroj-leelaruji-11b9734/) worked on [Methods for Synchrophasor-Based Power System Instability Detection and HVDC Control](https://ecse.rpi.edu/~vanfrl/documents/phdthesis/2012_RL_PHD_Thesis.pdf). Nex stop, [Bombardier](https://www.bombardier.com/en/home.html).
 
 ## MSc Students
+- 2023: [Eric Segerstrom](https://everydaymatters.rpi.edu/composing-a-passion-for-engineering-eric-segerstrom/) working on power system modeling and synchrophasor data analysis, [sample paper 1](https://www.researchgate.net/publication/374839299_Modeling_Components_of_a_Turbine-Generator_System_for_Sub-Synchronous_Oscillation_Studies_with_Modelica), [sample paper 2](https://www.researchgate.net/publication/362015372_Using_Spectral_Flatness_to_Detect_and_Label_Power_System_Oscillations_in_the_Presence_of_Intermittent_Broadband_Noise).
 - 2022 (MSc Comp. Sys.) - [Sergio Andres Dorado]([https://sites.google.com/view/sergiodorado](https://www.linkedin.com/in/sergio-a-dorado-rojas-3b0421114/)) worked on machine learning applications for power systems, [sample paper](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP178_SDMCFLV_SSAwML.pdf).
 - 2021 - [Kunj Shah](https://www.linkedin.com/in/kunjshah1/) worked on regenerative breaking systems for hybrid vehicles.
 - 2020 (MSc EE) - [Sergio Andres Dorado]([https://sites.google.com/view/sergiodorado](https://www.linkedin.com/in/sergio-a-dorado-rojas-3b0421114/)) worked on machine learning applications for power systems, [sample paper](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP178_SDMCFLV_SSAwML.pdf).

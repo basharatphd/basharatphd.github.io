@@ -25,10 +25,10 @@ Services are provided to institutions as well as individuals. Some of the compan
 - Industry:
   - [2022 - present] New York Power Authority, USA
   - [2020 - present] Dominion Energy Virginia, USA
-  - [2019 - present] SuperGrid Institute, France
+  - [2019 - 2023] SuperGrid Institute, France
   - [2021-2022] CENACE, Quito, Ecuador
   - [2018] Opal-RT, Canada
-  -
+  
 - Academia:
   - [2019] KAUST University, Saudi Arabia
   - [2020, 2021] TU Munich, Germany
