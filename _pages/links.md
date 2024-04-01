@@ -25,8 +25,6 @@ This is a list of collaborators and/or people I admire... incomplete, and in no 
 - [Prof. Mario Paolone, EPFL, Switzerland](https://people.epfl.ch/mario.paolone), leading the [DESL](https://desl-pwrs.epfl.ch).
 - [Prof. Federico Milano, UCD, Dublin](http://faraday1.ucd.ie) creator of PSAT and DOME.
 - [Dr. Barry Rawn, CMU Africa, Rwanda](https://www.ece.cmu.edu/directory/bios/rawn-barry.html), personal website [here](http://www.barryrawn.info/academic/).
-- [Prof. Mohammadreza Barzegaran](https://www.researchgate.net/profile/Mohammadreza_Barzegaran) at Lamar Uni's [LAREM](https://www.lamar.edu/engineering/electrical/faculty-and-staff/barzegaran/microgrid/research/larem-lab-team.html) research team.
-
 ... more to come!
 
 # Where to get a PMU? - Build one!

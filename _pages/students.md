@@ -11,10 +11,10 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
-### ***2023-02-21:*** Notice to Prospective Researchers and Students
-I will be on sabbatical leave during Fall 2023 and Spring 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Fall 2024.
+### ***2024-04-21:*** Notice to Prospective Researchers and Students
+I am on sabbatical leave until mid-August 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
 
-Please do not email me with requests and questions about joining my research program, because I will not be at Rensselaer Polytechnic Institute during that period.
+Please do not email me with requests and questions about joining my research program, because I will not have available funding to support additional students.
 
 # About Joining my Team: ALSETLab
 

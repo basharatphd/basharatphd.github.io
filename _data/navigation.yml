@@ -1,38 +1,35 @@
 # main links links
 main:
 
-  - title: "The Lab!"
-    url: /lab/
-
   - title: "Contact & CV"
     url: /cv/
-
-  - title: "Members"
-    url: /labroster/
-
-  - title: "Join!"
-    url: /students/
-
-  - title: "Donors/Donate!"
-    url: /donate/
-
-  - title: "Research"
-    url: /research/
 
   - title: "Consulting"
     url: /consulting/
 
-  - title: "Software"
-    url: /software/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Research"
+    url: /research/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "The Lab!"
+    url: /lab/
+
+  - title: "Lab. Members"
+    url: /labroster/
+
+  - title: "For Students"
+    url: /students/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Donors/Donate!"
+    url: /donate/
 
   - title: "Links"
     url: /Links/

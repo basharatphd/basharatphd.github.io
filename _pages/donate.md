@@ -63,6 +63,8 @@ We welcome any donations in the form of products, software licenses, services, l
 ![notion](https://alsetlab.github.io/images/donors/notion_logo.png "Notion Logo")
 - [Notion](https://www.notion.so) provides us with with their Pro Plan at no cost so we can be organized! Learn about this software/service that materializes a [new paradigm in team collaboration through a fully self-supporting digital workspace](https://medium.com/moonwalking-with-matt/notion-a-new-paradigm-for-working-in-teams-5f0417a38fe8)
 
-# Individual Donors
+# Cash Donations
 - 2018
   - [Michael Henderson](https://www.linkedin.com/in/michael-henderson-58a8789a/), Director Regional Planning and Coordination at ISO New England, and an RPI alum contributed to the cost of software license for [Dymola](https://www.3ds.com/products-services/catia/products/dymola/) that I personally use for research in power system model validation. Thank you Mike!
+- 2024
+  - [Mitsubishi Electric Research Labs.](https://merl.com/), contributed with a cash donation to support research dissemination activities. Thank you MERL!

@@ -29,40 +29,27 @@ and developing/supporting/using open source software and open access standards.
 
 - (2020 - current) DOE-funded project "OpTEN": [Optimal Co-Design of Integrated Thermal-Electrical Networks and Control Systems for Grid-interactive Efficient District (GED) Energy Systems](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/).
 
-- (2020 - current) Integrated Hardware-in-the-Loop Testing of Converter-Interfaced Distributed Energy Resources. Funded by the New York State Energy Research and Development Agency (NYSERDA) under Agreement No. 149165.  Collaboration with Smarter Grid Solutions, NY. Selected as winner of the “Future Grid Challenge,” of NYSERDA.
-  - Abstract: In this project, Orange and Rockland Utility (O&R) seeks to understand smart inverter functions and develop procedures that will help grid operators utilize their grid support functions. The underlying problem is that the required standards and operating procedures to integrate smart inverter protocols have not been implemented in the field. Concerns also exist that grid support functions may not work when called upon, either autonomously or manually, or there may be yet undiscovered operating issues that have not been fully addressed. Left unresolved, these issues create a lack of understanding and confidence in new smart inverter technology that can lead to degraded grid performance and missed opportunities from smart inverter technology. This demonstration project aims to provide a suite of testing environments that will be used to validate smart inverter functions. At RPI, a real-time power hardware-in-the-loop simulation testbed is being developed to perform testing of the different inverter control functions and testing of the integration of smart inverter interoperability capabilities into a larger DistributedEnergy Resource Management System (DERMS) and Advanced Distribution Management System (ADMS) platforms.
-
-- (2021 - current), “Cloud-based integrated model-and-measurement analytics for power system applications,” funded by Dominion Energy, Richmond, Virginia.
-   - Abstract: This project aims at the deployment of interoperable and portable models of major generation assets at Dominion Energy, and their integration with measurements within a cloud-based system, the PingThings platform, used at Dominion energy. To this end, a number of power plant models needed have been developed in the Modelica language and validated against PSS/E. Next, work on automated Modelica model assembly starting from PSS/E files and the automated generation of Functional Mockup Units was conducted. This has resulted in a new tool capable of taking power plant models and producing both Modelica models based on the OpenIPSL library with their corresponding FMUs. The models are being deployed and integrated with measurements in the PredictiveGrid platform, where generic model calibration, ambient data-based model calibration, trajectory sensitivities and sensitivity analysis with uncertainty quantification, and estimation analytics are being developed.
-
 To be updated, some may be missing...
 
 ## Long Term Research Projects  
 
 - The [OpenIPSL.org](http://openipsl.org) project works in the development of a Modelica library for power system dynamic modeling and simulation. It is the bases for my work on cyber-physical power system design and analysis methods. This project is a continuation of work started in 2012 in the use of the Modelica language for power systems.
   - See [OpenIPSL.org](http://openipsl.org) for members, results and documentation.
-  - Currently partially supported by [this project](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/) and by Dominion Energy Virginia.
+  - Currently partially supported by [this project](https://sites.psu.edu/sbslab/research/city/grid-interactive-efficient-district-energy-system/).
   - Contact me to support this project!
 
-- [ALSETLab](https://alsetlab.github.io/lab/): a time-sensitive and real-time simulation-based hardware & software development and testing platform for cyber-physical power systems.
+- [ALSETLab](https://alsetlab.github.io/lab/): a time-sensitive and real-time simulation-based hardware & software development and testing platform for cyber-physical power systems with power hardware-in-the-loop smart inverter testing capabilities.
     - Currently unfunded.
     - Contact me to donate equipment, or to support this project further!
 
-- Mission critical, time-sensitive and real-time synchrophasor technologies for distribution networks.
-  - Currently un-funded.
-  - Contact me to support this project!
-  - *Synopsis:* This project develops of methods and tools for synchrophasor applications, with a focus on power distribution networks and microgrids; as well as traditional power networks. Some of the results of this long term effort are:
-     - The [S3DK](https://github.com/ALSETLab/S3DK-STRONGgrid) a LabView toolbox for real-time PMU application prototyping.
-     - The [Strongrid DLL](https://github.com/ALSETLab/S3DK-STRONGgrid), a real-time PMU data mediation library with several future functionalities in mind, such as a time-synchronization layer and multithreading - and LabView API!
-     - A benchmark open source model of transmission and distribution systems for [off-line and real-time simulation](https://github.com/ALSETLab/ADN-RT-EMTP-Model).
-     - ... and [many others](https://github.com/ALSETLab).
-
-- System Identification for Cyber-Physical Power System Modeling
-  - This project deals with the development of methods and prototype implementation of tools for power system model identification problems with a theoretical founding on system identification methods. Most of this work is in collaboration with Xavier Bombois, CNRS/ECL Lyon.
-  - Currently un-funded. Contact me to support this project!
-
 ## Past Research
 ### Past Funded Research in the USA (Partial List, incomplete, ask for more details if interested)
+- (2020 - 2023) Integrated Hardware-in-the-Loop Testing of Converter-Interfaced Distributed Energy Resources. Funded by the New York State Energy Research and Development Agency (NYSERDA) under Agreement No. 149165.  Collaboration with Smarter Grid Solutions, NY. Selected as winner of the “Future Grid Challenge,” of NYSERDA.
+  - Abstract: In this project, Orange and Rockland Utility (O&R) seeks to understand smart inverter functions and develop procedures that will help grid operators utilize their grid support functions. The underlying problem is that the required standards and operating procedures to integrate smart inverter protocols have not been implemented in the field. Concerns also exist that grid support functions may not work when called upon, either autonomously or manually, or there may be yet undiscovered operating issues that have not been fully addressed. Left unresolved, these issues create a lack of understanding and confidence in new smart inverter technology that can lead to degraded grid performance and missed opportunities from smart inverter technology. This demonstration project aims to provide a suite of testing environments that will be used to validate smart inverter functions. At RPI, a real-time power hardware-in-the-loop simulation testbed is being developed to perform testing of the different inverter control functions and testing of the integration of smart inverter interoperability capabilities into a larger DistributedEnergy Resource Management System (DERMS) and Advanced Distribution Management System (ADMS) platforms.
+
+- (2021 - 2023), “Cloud-based integrated model-and-measurement analytics for power system applications,” funded by Dominion Energy, Richmond, Virginia.
+   - Abstract: This project aims at the deployment of interoperable and portable models of major generation assets at Dominion Energy, and their integration with measurements within a cloud-based system, the PingThings platform, used at Dominion energy. To this end, a number of power plant models needed have been developed in the Modelica language and validated against PSS/E. Next, work on automated Modelica model assembly starting from PSS/E files and the automated generation of Functional Mockup Units was conducted. This has resulted in a new tool capable of taking power plant models and producing both Modelica models based on the OpenIPSL library with their corresponding FMUs. The models are being deployed and integrated with measurements in the PredictiveGrid platform, where generic model calibration, ambient data-based model calibration, trajectory sensitivities and sensitivity analysis with uncertainty quantification, and estimation analytics are being developed.
+
 - (2019-2022) CHEETA: NASA ULI Center for Cryogenic High-Efficiency Electrical Technologies for Aircraft, website: [here](https://cheeta.illinois.edu/)
   - Funded by NASA University Leadership Initiative (ULI), see [here](https://nari.arc.nasa.gov/uliround2)
   - PI: [Prof. Phillip J. Ansell (UIUC)](https://aerospace.illinois.edu/directory/profile/ansell1)
