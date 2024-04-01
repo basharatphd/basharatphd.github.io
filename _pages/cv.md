@@ -12,17 +12,20 @@ redirect_from:
 # Contact
 ## Postal Address
 - Postal Address:
-  Rensselaer Polytechnic Institute
-  JEC 6220, 
-  110 Eighth Street
-  Troy, New York 12180-3590
-  USA
+``````
+Rensselaer Polytechnic Institute
+JEC 6220
+110 Eighth Street
+Troy, New York 12180-3590
+USA
+``````
 
 - Locations @RPI:
+``````
   Office: JEC 6220
   ALSETLab-Maxwell: JEC 6119
   ALSETLab-Volta: 2327B ECSE, High Bay Area
-
+``````
 ## Phone
 - Mobile: (518) 496 0196
 
