@@ -11,10 +11,10 @@ redirect_from:
 ![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
 [Download Larger Version](https://alsetlab.github.io/images/ALSETLab-1pager.pdf)
 
-### ***2024-04-21:*** Notice to Prospective Researchers and Students
-I am on sabbatical leave until mid-August 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+### ***2024-08-14:*** Notice to Prospective Researchers and Students
+I will NOT be recruiting any students to join my team for Spring 2025. The earliest that I will be looking for students to join my team will be to join during Fall 2025.
 
-Please do not email me with requests and questions about joining my research program, because I will not have available funding to support additional students.
+Please do not email me with requests and questions about joining my research program until the Fall 2025 admissions period, because I will not have available funding to support additional students. See more information [here](https://alsetlab.github.io/students/).
 
 ### About this Website
 This is the website of Prof. Luigi Vanfretti and ALSETLab (a research group and a laboratory) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.

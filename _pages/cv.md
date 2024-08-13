@@ -45,7 +45,7 @@ USA
 - Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2009.
 - Post Doc., Rensselaer Polytechnic Institute, 2009-2010. 
 - Post Doc., KTH Royal Institute of Technology, Stockholm, Sweden, 2010.
-- Docent (Swedish Habilitiation), KTH Royal Institute of Technology, Stockholm, Sweden, June 2012. <br />
+- Docent (Swedish Habilitation), KTH Royal Institute of Technology, Stockholm, Sweden, June 2012. <br />
 
 # Work Experience:
 

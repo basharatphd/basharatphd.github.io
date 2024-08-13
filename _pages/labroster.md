@@ -7,10 +7,10 @@ redirect_from:
   - /resume/
 ---
 {% include base_path %}
-### ***2024-04-21:*** Notice to Prospective Researchers and Students
-I am on sabbatical leave until mid-August 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+### ***2024-08-14:*** Notice to Prospective Researchers and Students
+I will NOT be recruiting any students to join my team for Spring 2025. The earliest that I will be looking for students to join my team will be to join during Fall 2025.
 
-Please do not email me with requests and questions about joining my research program, because I will not have available funding to support additional students.
+Please do not email me with requests and questions about joining my research program until the Fall 2025 admissions period, because I will not have available funding to support additional students. See more information [here](https://alsetlab.github.io/students/).
 
 ---
 # Current Researchers and Students @ALSETLab

@@ -11,10 +11,10 @@ redirect_from:
 
 **Looking for the Lab's current members?** Please follow this link to find the Lab's team roster (past students, post-docs, researchers and visitors): *[Lab Roster!](/labroster/)*
 
-### ***2024-04-21:*** Notice to Prospective Researchers and Students
-I am on sabbatical leave until mid-August 2024. Therefore, I will NOT be recruiting any students to join my team during that period. The earliest that I will be looking for students to join my team will be to join during Spring 2025.
+### ***2024-08-14:*** Notice to Prospective Researchers and Students
+I will NOT be recruiting any students to join my team for Spring 2025. The earliest that I will be looking for students to join my team will be to join during Fall 2025.
 
-Please do not email me with requests and questions about joining my research program, because I will not have available funding to support additional students.
+Please do not email me with requests and questions about joining my research program until the Fall 2025 admissions period, because I will not have available funding to support additional students.
 
 # About Joining my Team: ALSETLab
 
@@ -25,7 +25,7 @@ Please do not email me with requests and questions about joining my research pro
   - If you don't read the stuff below, and contact me anyway, I will reply to you asking read the text below! So, you might as well keep reading...
 
 ## Are you an undergrad or grad student at RPI?
-- If you are an ***undergraduate at RPI***, currently I am not taking in additional undergraduate students, please check back in Fall 2023 if I am taking student to work with my team.
+- If you are an ***undergraduate at RPI***, currently I am not taking in additional undergraduate students, please check back in Spring 2025 if I am taking student to work with my team.
 - If you are a graduate student at RPI, please first check with your faculty advisor if it is ok to meet me.
 
 ## Are you at another university in the USA or outside the USA?
@@ -69,7 +69,7 @@ You are also expected to deliver at the same rate as other students under an RA.
 - Visit RPI's Grad. Admission website to find out about the requirements [here](http://admissions.rpi.edu/graduate/).
 
 ### Test Scores:
-- Ask the Admissions Office wether or not GRE Scores are required, if they are, as a guideline, the following are some scores you should aim to obtain. Verbal: 156, Quantitative: 146, Analytical: 4.0. I strongly recommend you take the GRE if it is no longer mandatory, it will make your application stand out (if the scores are good), as others might not report scores.
+- Ask the Admissions Office whether or not GRE Scores are required, if they are, as a guideline, the following are some scores you should aim to obtain. Verbal: 156, Quantitative: 146, Analytical: 4.0. I strongly recommend you take the GRE if it is no longer mandatory, it will make your application stand out (if the scores are good), as others might not report scores.
 
 - TOEFL score of 230 CBT/88 iBT/570 PBT (IELTS 6.5 or PTE 60) - these are minimum thresholds.
 
