@@ -4,6 +4,9 @@ main:
   - title: "Contact & CV"
     url: /cv/
 
+  - title: "The Lab!"
+    url: /lab/
+
   - title: "Consulting"
     url: /consulting/
 
@@ -13,12 +16,6 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "The Lab!"
-    url: /lab/
-
   - title: "Lab. Members"
     url: /labroster/
 
@@ -27,6 +24,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Software"
+    url: /software/
 
   - title: "Donors/Donate!"
     url: /donate/
