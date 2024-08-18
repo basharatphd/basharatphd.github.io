@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ALSETLab Home"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Luigi Vanfretti"
+name                     : &name "Basharat Hussain"
 description              : &description "Prof. Luigi Vanfretti's research group and lab. working on cyber-physical power system modeling and simulation, stability and control, and synchrophasor technology."
 url                      : https://ALSETLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
