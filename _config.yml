@@ -97,12 +97,12 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "basharathussain"
-  orcid            : "https://orcid.org/0000-0002-4125-1055"
+  orcid            : "https://orcid.org/0000-0001-7492-5725"
   pinterest        :
-  researcherid     : #"http://www.researcherid.com/rid/B-8174-2017"
-  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=23029592800"
+  researcherid     : "" #"http://www.researcherid.com/rid/B-8174-2017"
+  scopus           : "" #"https://www.scopus.com/authid/detail.uri?authorId=23029592800"
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/8391684/luigi-vanfretti"
+  stackoverflow    : "" #"https://stackoverflow.com/users/8391684/luigi-vanfretti"
   steam            :
   tumblr           :
   twitter          : ""
