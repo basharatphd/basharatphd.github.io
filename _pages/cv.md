@@ -19,14 +19,15 @@ Wah Cantt
 Punjab 44070
 Pakistan
 ``````
+
 ## Phone
 - Mobile: (+92) 300 510 6398
 
 ## Email
-#- Website: [ALSETLab.com](http://www.ALSETLab.com)
+- Website: [FAST-NUCES](http://isb.nu.edu.pk/home)  
 - E-mail: <mailto:basharat@live.com>
-- Please see my LinkedIn profile [here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
-- You can also see my faculty profile in RPI's webpage, [here](https://faculty.rpi.edu/luigi-vanfretti).
+- LinkedIn profile **[here]**(https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
+- You can also see my faculty profile in Institute's webpage, **[here]**([https://faculty.rpi.edu/luigi-vanfretti](http://isb.nu.edu.pk/Faculty/Details/6823)).
 
 # Education and Degrees
 - Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
