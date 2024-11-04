@@ -26,8 +26,8 @@ Pakistan
 ## Email
 - Website: [FAST-NUCES](http://isb.nu.edu.pk/home)  
 - E-mail: <mailto:basharat@live.com>
-- LinkedIn profile **>>**[here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
-- You can also see my faculty profile in Institute's webpage, **[here]**([https://faculty.rpi.edu/luigi-vanfretti](http://isb.nu.edu.pk/Faculty/Details/6823)).
+- LinkedIn profile **>>>**([here](https://www.linkedin.com/in/basharathussain/)), it is kept up to date more frequently.
+- You can also see my faculty profile in Institute's webpage, **>>>** ([here](http://isb.nu.edu.pk/Faculty/Details/6823)).
 
 # Education and Degrees
 - Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
