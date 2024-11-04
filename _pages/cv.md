@@ -30,13 +30,12 @@ Pakistan
 - You can also see my faculty profile in Institute's webpage, **>>** [here](http://isb.nu.edu.pk/Faculty/Details/6823).
 
 # Education and Degrees
-- Electrical Engineering Degree, Universidad de San Carlos de Guatemala, Spring 2005.
-- Visiting Researcher, The University of Glasgow, Fall 2005.
-- MSc in Electric Power Engineering, Rensselaer Polytechnic Institute, 2007. Major: Electric Power. Minor: Control Systems.
-- Ph.D in Electric Power Engineering, Rensselaer Polytechnic Institute, 2009.
-- Post Doc., Rensselaer Polytechnic Institute, 2009-2010. 
-- Post Doc., KTH Royal Institute of Technology, Stockholm, Sweden, 2010.
-- Docent (Swedish Habilitation), KTH Royal Institute of Technology, Stockholm, Sweden, June 2012. <br />
+- BSc in Mathematics & Physics, University of the Punjab, Pakistan, Spring 1998.
+- MSc in Computer Science, International Islamic University, Islamabad, Pakistan, Spring 2001.
+- MS in Computer Science, International Islamic University, Islamabad, Pakistan, FALL 2016.
+- Ph.D in Computer Science, COMSATS Universitym Islamabad, 2019 to Till Date.
+- Post Doc., Open to work from Jan 2025.
+<br />
 
 # Work Experience:
 
