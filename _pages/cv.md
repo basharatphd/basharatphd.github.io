@@ -13,28 +13,18 @@ redirect_from:
 ## Postal Address
 - Postal Address:
 ``````
-Rensselaer Polytechnic Institute
-JEC 6220
-110 Eighth Street
-Troy, New York 12180-3590
-USA
-``````
-
-- Locations @RPI:
-``````
-  Office: JEC 6220
-  ALSETLab-Maxwell: JEC 6119
-  ALSETLab-Volta: 2327B ECSE, High Bay Area
+House B-648, Phase 5,
+Officers Colony,
+Wah Cantt
+Punjab 44070
+Pakistan
 ``````
 ## Phone
-- Mobile: (518) 496 0196
+- Mobile: (+92) 300 510 6398
 
-## Website and Email
-- Website: [ALSETLab.com](http://www.ALSETLab.com)
-- GMAIL E-mail: <mailto:luigi.vanfretti@gmail.com>
-- Please don't send emails to my @rpi.edu address, your email might be blocked by the university servers.
-
-# Abridged CV
+## Email
+#- Website: [ALSETLab.com](http://www.ALSETLab.com)
+- E-mail: <mailto:basharat@live.com>
 - Please see my LinkedIn profile [here](https://www.linkedin.com/in/vanfretti/), it is kept up to date more frequently.
 - You can also see my faculty profile in RPI's webpage, [here](https://faculty.rpi.edu/luigi-vanfretti).
 
