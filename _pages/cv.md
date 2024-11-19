@@ -45,12 +45,12 @@ Pakistan
 - Feb 2020 – Dec 2023: Senior Lecturer, Riphah International University, Islamabad, Pakistan.
 
 #### Part-time appointments:
-- 2016/6 - 2018/07:	Visiting Faculty, COMSATS University, Wah Campus, Pakistan.
+- Jun 2016 - Jul 2018:	Visiting Faculty, COMSATS University, Wah Campus, Pakistan.
 - 2007: Visiting Faculty, Fatima Jinnah University, Rawalpindi, Pakistan.
 
 ## Professional:
-- 2020 – Current: Vanfretti Consulting LLC, Troy, NY, U.S.A.
-- 2023/08 - 2024/03: Mitsubishi Electric Research Labs., Cambridge, MA, USA. 
+- Dec 2020 – Current: Partner & CTO, FindVaccineNow LLC, TX, U.S.A.
+- Aug 2019 - Oct 2020: Put & Track, Architect / Lead (in Offshore Development at Royal Brackets), Arhus, DK. 
 - 2019-2021: Independent External Consultant to SuperGrid Institute, Lyon, France and Dominion Energy, VA, USA.
 - 2014-2016: Special Advisor in Strategy and International Collaboration, Statnett SF, Norway
 - 2013-2014: Special Advisor in Strategy, Statnett SF, Norway
