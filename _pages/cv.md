@@ -40,20 +40,13 @@ Pakistan
 # Work Experience:
 
 ## Academic:
-#### At RPI:
-- 2022/7 – Current: Full Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
-- 2017 – 2022/6: Associate Professor, Rensselaer Polytechnic Institute, Troy, New York, U.S.A.
+#### Full-time appointments:
+- Jan 2024 - Current: Lecturer, FAST University - NUCES, Islamabad, Pakistan.
+- Feb 2020 – Dec 2023: Senior Lecturer, Riphah International University, Islamabad, Pakistan.
 
 #### Part-time appointments:
-- 2023/6 - 2023/07:	Visiting Researcher, École Centrale de Lyon, Lyon, France.
-- 2022/7: Visiting Professor, SuperGrid Institute, Lyon, France.
-- 2022/6:	Invited Professor (Enseignant Invité), École Centrale de Lyon, Lyon, France.
-- 2019/06-2019/08: Visiting Faculty, King Abdullah University of Science and Technology, Saudi Arabia
-
-#### AT KTH:
-- 2013 – 2017: (Tenured) Associate Professor, KTH Royal Institute of Technology, Sweden
-- 2012 – 2017: Docent, KTH Royal Institute of Technology, Sweden
-- 2010 – 2013: Assistant Professor, KTH Royal Institute of Technology, Sweden
+- 2016/6 - 2018/07:	Visiting Faculty, COMSATS University, Wah Campus, Pakistan.
+- 2007: Visiting Faculty, Fatima Jinnah University, Rawalpindi, Pakistan.
 
 ## Professional:
 - 2020 – Current: Vanfretti Consulting LLC, Troy, NY, U.S.A.
