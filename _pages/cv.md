@@ -50,12 +50,9 @@ Pakistan
 
 ## Professional:
 - Dec 2020 – Current: Partner & CTO, FindVaccineNow LLC, TX, U.S.A.
-- Aug 2019 - Oct 2020: Put & Track, Architect / Lead (in Offshore Development at Royal Brackets), Arhus, DK. 
-- 2019-2021: Independent External Consultant to SuperGrid Institute, Lyon, France and Dominion Energy, VA, USA.
-- 2014-2016: Special Advisor in Strategy and International Collaboration, Statnett SF, Norway
-- 2013-2014: Special Advisor in Strategy, Statnett SF, Norway
-- 2011-2013: Independent External Consultant as Scientific Advisor to the R&D Division of Statnett SF, Norway.
-
+- Aug 2019 - Oct 2020: Put & Track, Architect / Lead (in Offshore Development at Royal Brackets), Arhus, DK.
+- dd
+- 
 # Current Synergistic Activities:
 ### OpenIPSL.org Project
 Coordinating the development of a Modelica Library for Power Grid Simulation, see more [http://openipsl.org](http://openipsl.org)
