@@ -7,7 +7,8 @@ author_profile: true
 
 ## Search Engines:
 - ORCID: [link](https://orcid.org/0000-0002-4125-1055)<br />
-- Google Scholar: [link](https://scholar.google.com/citations?user=_XI6Q6UAAAAJ&hl=en&oi=ao)<br />
+- Google Scholar: [link](https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en)<br />
+
 - ScopusID: [link](https://www.scopus.com/authid/detail.uri?authorId=23029592800)<br />
 
 ## Pre-prints:
