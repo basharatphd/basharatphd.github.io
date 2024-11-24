@@ -60,16 +60,3 @@ Pakistan
 - Oct 2002 – Apr 2005: Workplains (pvt). ltd., Senior Software Engineer (Full-time), Islamabad, Pakistan.
 - Nov 2001 – Jul 2002: Buraq Integrated Solutions, Software Engineer (Full-time), Islamabad, Pakistan.
  
-
-# Current Synergistic Activities:
-### OpenIPSL.org Project
-Coordinating the development of a Modelica Library for Power Grid Simulation, see more [http://openipsl.org](http://openipsl.org)
-
-## Technical Groups Membership / Participation:
-- Modelica Association - Elected as member in 2018, more info [here](https://ecse.rpi.edu/index.php/news/luigi-vanfretti-elected-modelica-association)<br />
-- North American Modelica User's Group (NAMUG) - Board Member (2018 - current) / Participant and Presenter: 2015 - 2017 [link](http://na.modelica-users.org)<br />
-- Open Source Modelica Consortium (OSMC) - Individual Member:[link](https://openmodelica.org/home/consortium)<br />
-
-
-  ### While you are here, take the chance to ...
-  - See how you can help! Click [here](https://alsetlab.github.io/donate/).
