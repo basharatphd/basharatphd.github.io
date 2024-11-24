@@ -23,7 +23,7 @@ Pakistan
 
 ## Email
 - Website: <a href="http://isb.nu.edu.pk/home" style="color: #D5006D;">FAST-NUCES</a>
-- E-mail: <mailto:basharat@live.com>
+- E-mail: <a href="mailto:basharat@live.com" style="color: #D5006D;">basharat@live.com</a>
 - LinkedIn profile **>>** <a href="https://www.linkedin.com/in/basharathussain/" style="color: #D5006D;">here</a>
 , it is kept up to date more frequently.
 - You can also see my faculty profile in Institute's webpage, **>>** <a href="http://isb.nu.edu.pk/Faculty/Details/6823" style="color: #D5006D;">here</a>.
