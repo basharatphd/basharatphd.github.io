@@ -50,8 +50,17 @@ Pakistan
 ## Professional:
 - Dec 2020 – Current: Partner & CTO, FindVaccineNow LLC, TX, U.S.A.
 - Aug 2019 - Oct 2020: Put & Track, Architect / Lead (in Offshore Development at Royal Brackets), Arhus, DK.
-- dd
-- 
+- Jul 2019 - May 2023: Royal Brackets Technology, Founder & CEO, Islamabad, Pakistan.
+- Aug 2016 - Oct 2020: Route Trading, Chief Architect (Full-time), Wah Cantt, Pakistan.
+- Mar 2017 – Feb 2019: Integrated Enterprises, Lead / Software Developer (Full-time), Islamabad, Pakistan.
+- Jan 2013 – Aug 2016: Synergy Pakistan, Tech Lead & Principal Software Engineer (Full-time), Islamabad, Pakistan.
+
+- Apr 2010 – Dec 2012: TEO International, Solution Architect & Principal Software Engineer (Full-time), Islamabad, Pakistan.
+- Feb 2005 – Apr 2010: Ciklum Pakistan, Software Architect & Technical Lead (Full-time), Islamabad, Pakistan.
+- Oct 2002 – Apr 2005: Workplains (pvt). ltd., Senior Software Engineer (Full-time), Islamabad, Pakistan.
+- Nov 2001 – Jul 2002: Buraq Integrated Solutions, Software Engineer (Full-time), Islamabad, Pakistan.
+ 
+
 # Current Synergistic Activities:
 ### OpenIPSL.org Project
 Coordinating the development of a Modelica Library for Power Grid Simulation, see more [http://openipsl.org](http://openipsl.org)
