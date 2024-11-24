@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ALSETLab Home!"
+title: "Basharat Profile Home!"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png "Flyer")
-[Download Larger Version](https://alsetlab.github.io/images/ALSETLab-1pager.pdf)
+![1pager](https://alsetlab.github.io/images/ALSETLab-1pager.png)
 
 ### ***2024-08-14:*** Notice to Prospective Researchers and Students
 I will NOT be recruiting any students to join my team for Spring 2025. The earliest that I will be looking for students to join my team will be to join during Fall 2025.
