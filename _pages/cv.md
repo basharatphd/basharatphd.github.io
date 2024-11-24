@@ -12,21 +12,22 @@ redirect_from:
 # Contact
 ## Postal Address
 - Postal Address:
-``````
+```
 House B-648, Phase 5,
 Officers Colony,
 Wah Cantt
 Punjab 44070
 Pakistan
-``````
+```
 
 ## Phone
 - Mobile: (+92) 300 510 6398
 
 ## Email
-- Website: [FAST-NUCES](http://isb.nu.edu.pk/home)  
+- Website: <a href="http://isb.nu.edu.pk/home" style="color: pink;">FAST-NUCES</a>
 - E-mail: <mailto:basharat@live.com>
-- LinkedIn profile **>>** [here](https://www.linkedin.com/in/basharathussain/), it is kept up to date more frequently.
+- LinkedIn profile **>>** <a href="https://www.linkedin.com/in/basharathussain/" style="color: pink;">here</a>
+, it is kept up to date more frequently.
 - You can also see my faculty profile in Institute's webpage, **>>** [here](http://isb.nu.edu.pk/Faculty/Details/6823).
 
 # Education and Degrees
