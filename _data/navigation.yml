@@ -7,13 +7,13 @@ main:
  # - title: "The Lab!"
  #   url: /lab/
 
-  - title: "Consulting"
-    url: /consulting/
+#  - title: "Consulting"
+ #   url: /consulting/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
+  - title: "Teaching & Research"
     url: /research/
 
 #  - title: "Lab. Members"
@@ -22,8 +22,8 @@ main:
 #  - title: "For Students"
 #    url: /students/
 
-  - title: "Teaching"
-    url: /teaching/
+ # - title: "Teaching"
+ #   url: /teaching/
 
   - title: "Software"
     url: /software/
