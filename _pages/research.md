@@ -9,21 +9,21 @@ redirect_from:
 {% include base_path %}
 
 ---
-# Basharat Hussain - Research & Professional Background
+# Research & Professional Background
 
 ## Research  
 ### Research Areas  
 I work in several **computer science domains**, including intelligent transportation systems, federated learning, and large-scale machine learning applications.  
 
-I am interested in applying:  
+I am interested in applying following methodologies for solving on-going problems:  
 
 - **Machine learning and deep learning** techniques for intelligent transportation systems, focusing on traffic prediction, incident detection, and flow optimization.  
 - **Federated learning** frameworks for privacy-preserving data analysis in multi-institutional collaborations, emphasizing model accuracy and security in transportation systems.  
 - **Spatio-temporal modeling** for urban traffic systems using advanced neural architectures, such as graph convolutional networks and recurrent units.  
 - **Optimization techniques** for enhancing decision-making in transportation systems, with a focus on integrating AI-driven methodologies.  
 - **Vertical federated learning** for improving data sharing in sensitive domains, including effective feature selection strategies for real-time applications.  
+- **Large language models** and their applications in prompt and data generation.  
 - **Motion diffusion models** and their applications in predictive analytics, leveraging latent dynamics in transportation and mobility data.  
-- Developing and utilizing **open-source tools** for research reproducibility and broad community collaboration.  
 
 ---
 
