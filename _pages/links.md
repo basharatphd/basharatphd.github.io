@@ -9,7 +9,7 @@ author_profile: true
 
 Here are some links to organizations, institutions, projects and people; this is not intended as a commercial endorsement.
 
-# Where to find good researchers and their teams?
+# List of References and Colleborators?
 This is a list of collaborators and/or people I admire... or they are directly connected to myself, and in no particular order.
 
 ### My PhD Supervisor at COMSTAS University
