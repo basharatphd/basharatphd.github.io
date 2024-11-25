@@ -1,22 +1,22 @@
 ---
 layout: archive
-title: "Links"
+title: "Links & References"
 permalink: /Links/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Here are some links to organizations, institutions, projects and people; this is not intended as a commercial endorsement of any kind.
+Here are some links to organizations, institutions, projects and people; this is not intended as a commercial endorsement.
 
 # Where to find good researchers and their teams?
-This is a list of collaborators and/or people I admire... incomplete, and in no particular order.
+This is a list of collaborators and/or people I admire... or they are directly connected to myself, and in no particular order.
 
-### The Sys. Id. Crowd
-- [Prof. Xavier Bombois, École Centrale Lyon, France](https://www.ec-lyon.fr/en/contacts/xavier-bombois), works on System Identification and is also CNRS Research Director with Laboratoire Ampere.
+### My PhD Supervisor at COMSTAS University
+- [Associate Prof. Muhammad Khalil Afzal, Wah Cantt, Pakistan](https://ieeexplore.ieee.org/author/38092770200), works on wireless sensor networks, Smart Cities, 5G, and IoT.
 
-### The Modelica Crowd
-- [Prof. Peter Fritzon, Linköping Univ., Sweden](http://www.ida.liu.se/~petfr27/) leading the [OpenModelica](https://openmodelica.org) effort.
+### The FAST NUCES University
+- [Prof. Hammad Majeed, Fast -NUCES Univ., Pakistan](http://www.ida.liu.se/~petfr27/) leading the [OpenModelica](https://openmodelica.org) effort.
 - [Dr. Dietmar Winkler, HSN, Norway](http://me.dwe.no), expert in all Modelica [things](https://github.com/dietmarw), and member of [OpenIPSL](http://openipsl.org)
 - [Dr. Michael Tiller](https://www.xogeny.com) Modelica-guru and modeling code-master at Xogeny! Inspiration engine for the software-peasants like myself.
 
