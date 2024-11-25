@@ -13,7 +13,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching & Research"
+  - title: "Research & Software"
     url: /research/
 
 #  - title: "Lab. Members"
@@ -22,11 +22,11 @@ main:
 #  - title: "For Students"
 #    url: /students/
 
- # - title: "Teaching"
- #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Software"
-    url: /software/
+#  - title: "Software"
+#    url: /software/
 
 #  - title: "Donors/Donate!"
 #    url: /donate/
