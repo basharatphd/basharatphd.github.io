@@ -8,10 +8,8 @@ author_profile: true
 ## Search Engines:
 - ORCID: <a href="https://orcid.org/0000-0002-4125-1055" style="color: #D5006D;">link</a><br />
 - Google Scholar: <a href="https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en" style="color: #D5006D;">link</a><br />
-- IEEE: <a href="https://orcid.org/0000-0002-4125-1055" style="color: #D5006D;">link</a><br />
-
-- Google Scholar: [link](https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en)<br />
-
+- IEEE: <a href="https://ieeexplore.ieee.org/author/37088916405" style="color: #D5006D;">link</a><br />
+ 
 ## ​​List of Publications
 
 * Paper (J03) **B. Hussain** and M. K. Afzal, “Optimizing Urban Traffic Incident Prediction with Vertical Federated Learning: A Feature Selection based Approach”,  in IEEE Transactions on Network Science and Engineering, 2024. doi: 10.1109/TNSE.2024.3487268.
