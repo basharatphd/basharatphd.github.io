@@ -6,11 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 
-Download my CV : 
+
 
 ---
 
 {% include base_path %}
+
+Download my CV : <a href="https://github.com/basharatphd/basharatphd.github.io/blob/master/BashCV_2024_Latest_V1a.pdf" style="color: #D5006D;">here</a>
 
 # Contact
 ## Postal Address
