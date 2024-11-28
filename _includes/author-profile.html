@@ -27,9 +27,9 @@
       {% endif %}
       {% if author.employer %}
         {% if author.employer_url %}
-          <li><a href="{{ author.employer_url }}"><i class="fa fa-fw fa-building-columns" aria-hidden="true"></i> {{ author.employer }}</a></li>
+          <li><a href="{{ author.employer_url }}"><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.employer }}</a></li>
         {% else %}
-          <li><i class="fa fa-fw fa-building-columns" aria-hidden="true"></i> {{ author.employer }}</li>
+          <li><i class="fa fa-fw fa-building" aria-hidden="true"></i> {{ author.employer }}</li>
         {% endif %} 
       {% endif %}
       {% if author.email %}
@@ -97,7 +97,7 @@
         <li><a href="{{ author.ieee }}"><i class="ai ai-ieee-square ai-fww"></i> IEEE </a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
