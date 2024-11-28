@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Contact/CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
+Download my CV : <a href="https://github.com/basharatphd/basharatphd.github.io/blob/master/BashCV_2024_Latest_V1a.pdf" style="color: #D5006D;">here</a>
+
 ---
 
 {% include base_path %}
