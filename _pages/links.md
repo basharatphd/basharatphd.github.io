@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Download my updated CV  **>>** <a href="https://github.com/basharatphd/basharatphd.github.io/blob/master/BashCV_2024_Latest_V1a.pdf" style="color: #D5006D;">here</a>
+
 Here are some links to organizations, institutions, projects and people; this is not intended as a commercial endorsement.
 
 # List of References and Colleborators?
