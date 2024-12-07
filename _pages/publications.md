@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Search Engines:
-- ORCID: <a href="https://orcid.org/0000-0002-4125-1055" style="color: #D5006D;">link</a><br />
+- ORCID: <a href="https://orcid.org/0000-0001-7492-5725" style="color: #D5006D;">link</a><br />
 - Google Scholar: <a href="https://scholar.google.com/citations?user=FNRaUhwAAAAJ&hl=en" style="color: #D5006D;">link</a><br />
 - IEEE: <a href="https://ieeexplore.ieee.org/author/37088916405" style="color: #D5006D;">link</a><br />
 - ResearchGate: <a href="https://www.researchgate.net/profile/Basharat-Hussain-6" style="color: #D5006D;">link</a><br />
