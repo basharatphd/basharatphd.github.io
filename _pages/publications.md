@@ -17,4 +17,4 @@ author_profile: true
 
 * Article (J02) **B. Hussain**, M. K. Afzal, S. Anjum, I. Rao and B-S. Kim, “A Novel Graph Convolutional Gated Recurrent Unit Framework for Network-Based Traffic Prediction”, _IEEE Access_, vol. 11, pp. 130102-130118, 2023, <a href="https://doi.org/10.1109/ACCESS.2023.3333938" style="color: #D5006D;">doi: 10.1109/ACCESS.2023.3333938</a><br />.
 
-* Article (J01) **B. Hussain**, M. K. Afzal, S. Ahmad and A. M. Mostafa, “Intelligent Traffic Flow Prediction Using Optimized GRU Model”, _IEEE Access_, vol. 9, pp. 100736-100746, 2021, , <a href="https://doi.org/10.1109/ACCESS.2021.3097141" style="color: #D5006D;">doi: 10.1109/ACCESS.2021.3097141</a><br />. 
+* Article (J01) **B. Hussain**, M. K. Afzal, S. Ahmad and A. M. Mostafa, “Intelligent Traffic Flow Prediction Using Optimized GRU Model”, _IEEE Access_, vol. 9, pp. 100736-100746, 2021, <a href="https://doi.org/10.1109/ACCESS.2021.3097141" style="color: #D5006D;">doi: 10.1109/ACCESS.2021.3097141</a><br />. 
